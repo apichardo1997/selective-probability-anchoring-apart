@@ -1,0 +1,4 @@
+subject model,tagger training,MES,5. correction taken in (%),5.,6. distance to the question alone (% of MES),6.
+Mistral-7B-Instruct-v0.3,0,0.5459449404761907,100.0,met,8.432708688245265,met
+Mistral-7B-Instruct-v0.3,1,0.5459449404761907,100.0,met,46.82282793867116,not met
+Mistral-7B-Instruct-v0.3,2,0.5459449404761907,100.0,met,35.408858603066385,not met

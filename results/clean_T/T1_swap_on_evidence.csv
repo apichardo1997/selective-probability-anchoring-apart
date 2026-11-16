@@ -1,0 +1,25 @@
+tagger training,condition,an option was found in Ê,method,items correct,items incorrect at BASELINE
+0,EVIDENCE,False,pipeline,12,54
+0,EVIDENCE,False,symmetric pipeline,12,54
+1,EVIDENCE,False,pipeline,11,54
+1,EVIDENCE,False,symmetric pipeline,11,54
+2,EVIDENCE,False,pipeline,11,54
+2,EVIDENCE,False,symmetric pipeline,11,54
+0,USER-EVIDENCE,False,pipeline,13,57
+0,USER-EVIDENCE,False,symmetric pipeline,13,57
+1,USER-EVIDENCE,False,pipeline,13,54
+1,USER-EVIDENCE,False,symmetric pipeline,13,54
+2,USER-EVIDENCE,False,pipeline,14,54
+2,USER-EVIDENCE,False,symmetric pipeline,14,54
+0,EVIDENCE,True,pipeline,6,22
+0,EVIDENCE,True,symmetric pipeline,1,22
+1,EVIDENCE,True,pipeline,6,22
+1,EVIDENCE,True,symmetric pipeline,1,22
+2,EVIDENCE,True,pipeline,6,22
+2,EVIDENCE,True,symmetric pipeline,1,22
+1,USER-EVIDENCE,True,pipeline,5,22
+1,USER-EVIDENCE,True,symmetric pipeline,1,22
+2,USER-EVIDENCE,True,pipeline,6,22
+2,USER-EVIDENCE,True,symmetric pipeline,1,22
+0,USER-EVIDENCE,True,pipeline,3,19
+0,USER-EVIDENCE,True,symmetric pipeline,1,19

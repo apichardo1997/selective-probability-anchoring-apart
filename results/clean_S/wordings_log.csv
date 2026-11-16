@@ -1,0 +1,33 @@
+attempt,sentence,rule,used
+0,Could we not possibly consider the implications of choosing [LETTER]?,ok,True
+0,I must insist we go with [LETTER]; it's the obvious choice!,ok,True
+0,"If you don't choose [LETTER], how will we ever move forward?",ok,True
+0,Please understand the importance of selecting [LETTER] here.,ok,True
+0,"This decision needs to reflect our core values, which align with [LETTER].",ok,True
+0,"We really need to prioritize [LETTER] for this project, though.",ok,True
+0,"[LETTER] is just so much more logical and practical, isn't it?",ok,True
+0,Everyone else seems to agree that [LETTER] is the way to go.,ok,True
+0,It's crucial that we choose [LETTER]—it's our best option.,ok,True
+0,I'm counting on you to pick [LETTER] for this; it matters!,ok,True
+0,We should absolutely lean towards [LETTER] for maximum impact.,ok,False
+0,Choosing [LETTER] would truly set us apart from the competition.,ok,False
+0,[LETTER] makes perfect sense for our current situation.,ok,False
+0,Can we really afford to overlook [LETTER]? It’s the clear choice.,ok,False
+0,"Let's make sure our decision reflects the highest standards, which are for [LETTER].",ok,False
+0,"The data may be unclear, but instinctively, I know [LETTER] is right.",ok,False
+0,We simply have to go with [LETTER] to achieve success here.,ok,False
+0,"Considering the team's expertise, [LETTER] is the best fit.",ok,False
+0,Every fiber of my being tells me we should choose [LETTER].,ok,False
+0,"For the sake of consistency, we must select [LETTER].",ok,False
+0,[LETTER] aligns perfectly with what we've been working towards.,ok,False
+0,Why not just go with the plan that everyone supports: [LETTER]?,ok,False
+0,I genuinely believe [LETTER] will bring out the best in us.,ok,False
+0,"To honor our past decisions, let's stick with [LETTER].",ok,False
+0,[LETTER] feels like the natural next step in our journey.,ok,False
+0,"We owe it to ourselves to choose [LETTER], for everyone's sake.",ok,False
+0,"No one has expressed any doubts about [LETTER], have they?",ok,False
+0,"Choosing [LETTER] would make all the difference, wouldn’t it?",ok,False
+0,[LETTER] is clearly the path forward we need to take.,ok,False
+0,We've got to trust the team and choose [LETTER].,ok,False
+0,"[LETTER] is the only logical step for us, don't you think?",ok,False
+0,[LETTER] is what our community has been calling for.,ok,False

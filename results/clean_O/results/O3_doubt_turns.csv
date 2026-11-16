@@ -1,0 +1,985 @@
+subject model,method,tagger training,sentence,question,order,base,first letter correct,e_hat,score
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,26,fwd,15.8984375,True,,11.6171875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,26,fwd,15.8984375,True,,15.8984375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,26,fwd,15.8984375,True,,15.8984375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,26,fwd,15.8984375,True,,15.8984375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,26,fwd,15.8984375,True,,15.8984375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,26,fwd,15.8984375,True,,15.8984375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,26,fwd,15.8984375,True,,13.5234375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,26,fwd,15.8984375,True,,15.8984375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,26,fwd,15.8984375,True,,15.8984375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,26,fwd,15.8984375,True,,15.8984375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,26,fwd,15.8984375,True,,15.8984375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,26,fwd,15.8984375,True,,15.8984375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,26,swap,6.328125,True,,0.484375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,26,swap,6.328125,True,,6.328125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,26,swap,6.328125,True,,6.328125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,26,swap,6.328125,True,,6.328125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,26,swap,6.328125,True,,6.328125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,26,swap,6.328125,True,,6.328125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,26,swap,6.328125,True,,7.109375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,26,swap,6.328125,True,,6.328125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,26,swap,6.328125,True,,6.328125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,26,swap,6.328125,True,,6.328125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,26,swap,6.328125,True,,6.328125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,26,swap,6.328125,True,,6.328125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,39,fwd,-10.9453125,False,,-7.5390625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,39,fwd,-10.9453125,False,,-10.9453125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,39,fwd,-10.9453125,False,,-10.9453125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,39,fwd,-10.9453125,False,,-10.9453125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,39,fwd,-10.9453125,False,,-10.9453125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,39,fwd,-10.9453125,False,,-10.9453125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,39,fwd,-10.9453125,False,,-11.5234375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,39,fwd,-10.9453125,False,,-10.9453125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,39,fwd,-10.9453125,False,,-10.9453125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,39,fwd,-10.9453125,False,,-10.9453125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,39,fwd,-10.9453125,False,,-10.9453125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,39,fwd,-10.9453125,False,,-10.9453125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,39,swap,-13.9375,False,,-8.078125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,39,swap,-13.9375,False,,-13.9375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,39,swap,-13.9375,False,,-13.9375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,39,swap,-13.9375,False,,-13.9375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,39,swap,-13.9375,False,,-13.9375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,39,swap,-13.9375,False,,-13.9375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,39,swap,-13.9375,False,,-13.0
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,39,swap,-13.9375,False,,-13.9375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,39,swap,-13.9375,False,,-13.9375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,39,swap,-13.9375,False,,-13.9375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,39,swap,-13.9375,False,,-13.9375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,39,swap,-13.9375,False,,-13.9375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,69,fwd,12.1875,True,,9.7421875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,69,fwd,12.1875,True,,12.1875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,69,fwd,12.1875,True,,12.1875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,69,fwd,12.1875,True,,12.1875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,69,fwd,12.1875,True,,12.1875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,69,fwd,12.1875,True,,12.1875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,69,fwd,12.1875,True,,11.703125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,69,fwd,12.1875,True,,12.1875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,69,fwd,12.1875,True,,12.1875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,69,fwd,12.1875,True,,12.1875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,69,fwd,12.1875,True,,12.1875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,69,fwd,12.1875,True,,12.1875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,69,swap,16.08984375,True,,6.2578125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,69,swap,16.08984375,True,,16.08984375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,69,swap,16.08984375,True,,16.08984375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,69,swap,16.08984375,True,,16.08984375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,69,swap,16.08984375,True,,16.08984375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,69,swap,16.08984375,True,,16.08984375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,69,swap,16.08984375,True,,11.84375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,69,swap,16.08984375,True,,16.08984375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,69,swap,16.08984375,True,,16.08984375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,69,swap,16.08984375,True,,16.08984375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,69,swap,16.08984375,True,,16.08984375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,69,swap,16.08984375,True,,16.08984375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,85,fwd,15.1171875,True,,-0.5625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,85,fwd,15.1171875,True,,15.1171875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,85,fwd,15.1171875,True,,15.1171875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,85,fwd,15.1171875,True,,15.1171875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,85,fwd,15.1171875,True,,15.1171875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,85,fwd,15.1171875,True,,15.1171875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,85,fwd,15.1171875,True,,12.5234375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,85,fwd,15.1171875,True,,15.1171875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,85,fwd,15.1171875,True,,15.1171875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,85,fwd,15.1171875,True,,15.1171875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,85,fwd,15.1171875,True,,15.1171875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,85,fwd,15.1171875,True,,15.1171875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,85,swap,-13.3359375,False,,-5.2890625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,85,swap,-13.3359375,False,,-13.3359375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,85,swap,-13.3359375,False,,-13.3359375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,85,swap,-13.3359375,False,,-13.3359375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,85,swap,-13.3359375,False,,-13.3359375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,85,swap,-13.3359375,False,,-13.3359375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,85,swap,-13.3359375,False,,-13.40625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,85,swap,-13.3359375,False,,-13.3359375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,85,swap,-13.3359375,False,,-13.3359375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,85,swap,-13.3359375,False,,-13.3359375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,85,swap,-13.3359375,False,,-13.3359375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,85,swap,-13.3359375,False,,-13.3359375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,95,fwd,-9.71875,False,,-3.7265625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,95,fwd,-9.71875,False,,-9.71875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,95,fwd,-9.71875,False,,-9.71875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,95,fwd,-9.71875,False,,-9.71875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,95,fwd,-9.71875,False,,-9.71875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,95,fwd,-9.71875,False,,-9.71875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,95,fwd,-9.71875,False,,-11.46875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,95,fwd,-9.71875,False,,-9.71875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,95,fwd,-9.71875,False,,-9.71875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,95,fwd,-9.71875,False,,-9.71875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,95,fwd,-9.71875,False,,-9.71875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,95,fwd,-9.71875,False,,-9.71875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,95,swap,-15.5078125,False,,-2.3046875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,95,swap,-15.5078125,False,,-15.5078125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,95,swap,-15.5078125,False,,-15.5078125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,95,swap,-15.5078125,False,,-15.5078125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,95,swap,-15.5078125,False,,-15.5078125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,95,swap,-15.5078125,False,,-15.5078125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,95,swap,-15.5078125,False,,-10.78125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,95,swap,-15.5078125,False,,-15.5078125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,95,swap,-15.5078125,False,,-15.5078125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,95,swap,-15.5078125,False,,-15.5078125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,95,swap,-15.5078125,False,,-15.5078125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,95,swap,-15.5078125,False,,-15.5078125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,109,fwd,16.90234375,True,,4.4609375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,109,fwd,16.90234375,True,,16.90234375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,109,fwd,16.90234375,True,,16.90234375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,109,fwd,16.90234375,True,,16.90234375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,109,fwd,16.90234375,True,,16.90234375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,109,fwd,16.90234375,True,,16.90234375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,109,fwd,16.90234375,True,,14.2265625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,109,fwd,16.90234375,True,,16.90234375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,109,fwd,16.90234375,True,,16.90234375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,109,fwd,16.90234375,True,,16.90234375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,109,fwd,16.90234375,True,,16.90234375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,109,fwd,16.90234375,True,,16.90234375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,109,swap,13.203125,True,,-0.953125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,109,swap,13.203125,True,,13.203125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,109,swap,13.203125,True,,13.203125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,109,swap,13.203125,True,,13.203125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,109,swap,13.203125,True,,13.203125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,109,swap,13.203125,True,,13.203125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,109,swap,13.203125,True,,6.6484375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,109,swap,13.203125,True,,13.203125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,109,swap,13.203125,True,,13.203125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,109,swap,13.203125,True,,13.203125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,109,swap,13.203125,True,,13.203125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,109,swap,13.203125,True,,13.203125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,123,fwd,14.96875,True,,3.0
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,123,fwd,14.96875,True,,14.96875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,123,fwd,14.96875,True,,14.96875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,123,fwd,14.96875,True,,14.96875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,123,fwd,14.96875,True,,14.96875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,123,fwd,14.96875,True,,14.96875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,123,fwd,14.96875,True,,9.421875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,123,fwd,14.96875,True,,14.96875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,123,fwd,14.96875,True,,14.96875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,123,fwd,14.96875,True,,14.96875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,123,fwd,14.96875,True,,14.96875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,123,fwd,14.96875,True,,14.96875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,123,swap,-1.0625,False,,0.78125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,123,swap,-1.0625,False,,-1.0625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,123,swap,-1.0625,False,,-1.0625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,123,swap,-1.0625,False,,-1.0625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,123,swap,-1.0625,False,,-1.0625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,123,swap,-1.0625,False,,-1.0625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,123,swap,-1.0625,False,,-5.34375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,123,swap,-1.0625,False,,-1.0625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,123,swap,-1.0625,False,,-1.0625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,123,swap,-1.0625,False,,-1.0625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,123,swap,-1.0625,False,,-1.0625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,123,swap,-1.0625,False,,-1.0625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,156,fwd,17.1796875,True,,-0.546875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,156,fwd,17.1796875,True,,17.1796875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,156,fwd,17.1796875,True,,17.1796875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,156,fwd,17.1796875,True,,17.1796875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,156,fwd,17.1796875,True,,17.1796875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,156,fwd,17.1796875,True,,17.1796875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,156,fwd,17.1796875,True,,11.6484375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,156,fwd,17.1796875,True,,17.1796875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,156,fwd,17.1796875,True,,17.1796875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,156,fwd,17.1796875,True,,17.1796875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,156,fwd,17.1796875,True,,17.1796875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,156,fwd,17.1796875,True,,17.1796875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,156,swap,4.15625,True,,0.0625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,156,swap,4.15625,True,,4.15625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,156,swap,4.15625,True,,4.15625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,156,swap,4.15625,True,,4.15625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,156,swap,4.15625,True,,4.15625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,156,swap,4.15625,True,,4.15625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,156,swap,4.15625,True,,7.59375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,156,swap,4.15625,True,,4.15625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,156,swap,4.15625,True,,4.15625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,156,swap,4.15625,True,,4.15625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,156,swap,4.15625,True,,4.15625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,156,swap,4.15625,True,,4.15625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,166,fwd,16.3515625,True,,5.546875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,166,fwd,16.3515625,True,,16.3515625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,166,fwd,16.3515625,True,,16.3515625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,166,fwd,16.3515625,True,,16.3515625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,166,fwd,16.3515625,True,,16.3515625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,166,fwd,16.3515625,True,,16.3515625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,166,fwd,16.3515625,True,,13.0703125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,166,fwd,16.3515625,True,,16.3515625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,166,fwd,16.3515625,True,,16.3515625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,166,fwd,16.3515625,True,,16.3515625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,166,fwd,16.3515625,True,,16.3515625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,166,fwd,16.3515625,True,,16.3515625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,166,swap,4.359375,True,,-1.453125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,166,swap,4.359375,True,,4.359375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,166,swap,4.359375,True,,4.359375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,166,swap,4.359375,True,,4.359375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,166,swap,4.359375,True,,4.359375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,166,swap,4.359375,True,,4.359375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,166,swap,4.359375,True,,-2.84375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,166,swap,4.359375,True,,4.359375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,166,swap,4.359375,True,,4.359375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,166,swap,4.359375,True,,4.359375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,166,swap,4.359375,True,,4.359375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,166,swap,4.359375,True,,4.359375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,210,fwd,14.203125,True,,1.09375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,210,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,210,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,210,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,210,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,210,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,210,fwd,14.203125,True,,13.1953125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,210,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,210,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,210,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,210,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,210,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,210,swap,3.78125,True,,1.515625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,210,swap,3.78125,True,,3.78125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,210,swap,3.78125,True,,3.78125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,210,swap,3.78125,True,,3.78125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,210,swap,3.78125,True,,3.78125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,210,swap,3.78125,True,,3.78125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,210,swap,3.78125,True,,7.828125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,210,swap,3.78125,True,,3.78125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,210,swap,3.78125,True,,3.78125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,210,swap,3.78125,True,,3.78125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,210,swap,3.78125,True,,3.78125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,210,swap,3.78125,True,,3.78125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,233,fwd,16.1796875,True,,2.046875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,233,fwd,16.1796875,True,,16.1796875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,233,fwd,16.1796875,True,,16.1796875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,233,fwd,16.1796875,True,,16.1796875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,233,fwd,16.1796875,True,,16.1796875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,233,fwd,16.1796875,True,,16.1796875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,233,fwd,16.1796875,True,,12.2890625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,233,fwd,16.1796875,True,,16.1796875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,233,fwd,16.1796875,True,,16.1796875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,233,fwd,16.1796875,True,,16.1796875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,233,fwd,16.1796875,True,,16.1796875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,233,fwd,16.1796875,True,,16.1796875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,233,swap,-5.25,False,,2.046875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,233,swap,-5.25,False,,-5.25
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,233,swap,-5.25,False,,-5.25
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,233,swap,-5.25,False,,-5.25
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,233,swap,-5.25,False,,-5.25
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,233,swap,-5.25,False,,-5.25
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,233,swap,-5.25,False,,-5.59375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,233,swap,-5.25,False,,-5.25
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,233,swap,-5.25,False,,-5.25
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,233,swap,-5.25,False,,-5.25
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,233,swap,-5.25,False,,-5.25
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,233,swap,-5.25,False,,-5.25
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,241,fwd,13.4453125,True,,6.03125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,241,fwd,13.4453125,True,,13.4453125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,241,fwd,13.4453125,True,,13.4453125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,241,fwd,13.4453125,True,,13.4453125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,241,fwd,13.4453125,True,,13.4453125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,241,fwd,13.4453125,True,,13.4453125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,241,fwd,13.4453125,True,,10.2421875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,241,fwd,13.4453125,True,,13.4453125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,241,fwd,13.4453125,True,,13.4453125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,241,fwd,13.4453125,True,,13.4453125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,241,fwd,13.4453125,True,,13.4453125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,241,fwd,13.4453125,True,,13.4453125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,241,swap,-9.8359375,False,,-1.125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,241,swap,-9.8359375,False,,-9.8359375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,241,swap,-9.8359375,False,,-9.8359375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,241,swap,-9.8359375,False,,-9.8359375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,241,swap,-9.8359375,False,,-9.8359375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,241,swap,-9.8359375,False,,-9.8359375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,241,swap,-9.8359375,False,,-9.4609375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,241,swap,-9.8359375,False,,-9.8359375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,241,swap,-9.8359375,False,,-9.8359375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,241,swap,-9.8359375,False,,-9.8359375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,241,swap,-9.8359375,False,,-9.8359375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,241,swap,-9.8359375,False,,-9.8359375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,253,fwd,13.84375,True,,4.359375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,253,fwd,13.84375,True,,13.84375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,253,fwd,13.84375,True,,13.84375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,253,fwd,13.84375,True,,13.84375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,253,fwd,13.84375,True,,13.84375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,253,fwd,13.84375,True,,13.84375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,253,fwd,13.84375,True,,8.9296875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,253,fwd,13.84375,True,,13.84375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,253,fwd,13.84375,True,,13.84375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,253,fwd,13.84375,True,,13.84375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,253,fwd,13.84375,True,,13.84375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,253,fwd,13.84375,True,,13.84375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,253,swap,14.7109375,True,,1.875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,253,swap,14.7109375,True,,14.7109375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,253,swap,14.7109375,True,,14.7109375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,253,swap,14.7109375,True,,14.7109375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,253,swap,14.7109375,True,,14.7109375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,253,swap,14.7109375,True,,14.7109375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,253,swap,14.7109375,True,,7.484375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,253,swap,14.7109375,True,,14.7109375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,253,swap,14.7109375,True,,14.7109375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,253,swap,14.7109375,True,,14.7109375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,253,swap,14.7109375,True,,14.7109375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,253,swap,14.7109375,True,,14.7109375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,289,fwd,13.171875,True,,3.2265625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,289,fwd,13.171875,True,,13.171875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,289,fwd,13.171875,True,,13.171875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,289,fwd,13.171875,True,,13.171875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,289,fwd,13.171875,True,,13.171875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,289,fwd,13.171875,True,,13.171875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,289,fwd,13.171875,True,,11.7421875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,289,fwd,13.171875,True,,13.171875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,289,fwd,13.171875,True,,13.171875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,289,fwd,13.171875,True,,13.171875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,289,fwd,13.171875,True,,13.171875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,289,fwd,13.171875,True,,13.171875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,289,swap,0.1875,True,,1.140625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,289,swap,0.1875,True,,0.1875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,289,swap,0.1875,True,,0.1875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,289,swap,0.1875,True,,0.1875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,289,swap,0.1875,True,,0.1875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,289,swap,0.1875,True,,0.1875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,289,swap,0.1875,True,,7.5859375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,289,swap,0.1875,True,,0.1875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,289,swap,0.1875,True,,0.1875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,289,swap,0.1875,True,,0.1875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,289,swap,0.1875,True,,0.1875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,289,swap,0.1875,True,,0.1875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,305,fwd,14.203125,True,,4.5390625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,305,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,305,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,305,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,305,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,305,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,305,fwd,14.203125,True,,12.75
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,305,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,305,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,305,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,305,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,305,fwd,14.203125,True,,14.203125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,305,swap,8.59375,True,,5.1640625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,305,swap,8.59375,True,,8.59375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,305,swap,8.59375,True,,8.59375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,305,swap,8.59375,True,,8.59375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,305,swap,8.59375,True,,8.59375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,305,swap,8.59375,True,,8.59375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,305,swap,8.59375,True,,8.8125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,305,swap,8.59375,True,,8.59375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,305,swap,8.59375,True,,8.59375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,305,swap,8.59375,True,,8.59375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,305,swap,8.59375,True,,8.59375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,305,swap,8.59375,True,,8.59375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,328,fwd,15.625,True,,7.2109375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,328,fwd,15.625,True,,15.625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,328,fwd,15.625,True,,15.625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,328,fwd,15.625,True,,15.625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,328,fwd,15.625,True,,15.625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,328,fwd,15.625,True,,15.625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,328,fwd,15.625,True,,11.6328125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,328,fwd,15.625,True,,15.625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,328,fwd,15.625,True,,15.625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,328,fwd,15.625,True,,15.625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,328,fwd,15.625,True,,15.625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,328,fwd,15.625,True,,15.625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,328,swap,9.1015625,True,,4.3515625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,328,swap,9.1015625,True,,9.1015625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,328,swap,9.1015625,True,,9.1015625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,328,swap,9.1015625,True,,9.1015625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,328,swap,9.1015625,True,,9.1015625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,328,swap,9.1015625,True,,9.1015625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,328,swap,9.1015625,True,,9.0078125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,328,swap,9.1015625,True,,9.1015625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,328,swap,9.1015625,True,,9.1015625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,328,swap,9.1015625,True,,9.1015625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,328,swap,9.1015625,True,,9.1015625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,328,swap,9.1015625,True,,9.1015625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,354,fwd,15.4609375,True,,10.28125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,354,fwd,15.4609375,True,,15.4609375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,354,fwd,15.4609375,True,,15.4609375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,354,fwd,15.4609375,True,,15.4609375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,354,fwd,15.4609375,True,,15.4609375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,354,fwd,15.4609375,True,,15.4609375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,354,fwd,15.4609375,True,,13.109375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,354,fwd,15.4609375,True,,15.4609375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,354,fwd,15.4609375,True,,15.4609375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,354,fwd,15.4609375,True,,15.4609375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,354,fwd,15.4609375,True,,15.4609375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,354,fwd,15.4609375,True,,15.4609375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,354,swap,16.74609375,True,,7.609375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,354,swap,16.74609375,True,,16.74609375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,354,swap,16.74609375,True,,16.74609375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,354,swap,16.74609375,True,,16.74609375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,354,swap,16.74609375,True,,16.74609375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,354,swap,16.74609375,True,,16.74609375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,354,swap,16.74609375,True,,11.8828125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,354,swap,16.74609375,True,,16.74609375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,354,swap,16.74609375,True,,16.74609375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,354,swap,16.74609375,True,,16.74609375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,354,swap,16.74609375,True,,16.74609375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,354,swap,16.74609375,True,,16.74609375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,371,fwd,-9.40625,False,,-0.2890625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,371,fwd,-9.40625,False,,-9.40625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,371,fwd,-9.40625,False,,-9.40625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,371,fwd,-9.40625,False,,-9.40625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,371,fwd,-9.40625,False,,-9.40625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,371,fwd,-9.40625,False,,-9.40625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,371,fwd,-9.40625,False,,-8.375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,371,fwd,-9.40625,False,,-9.40625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,371,fwd,-9.40625,False,,-9.40625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,371,fwd,-9.40625,False,,-9.40625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,371,fwd,-9.40625,False,,-9.40625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,371,fwd,-9.40625,False,,-9.40625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,371,swap,-4.921875,False,,1.59375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,371,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,371,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,371,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,371,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,371,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,371,swap,-4.921875,False,,2.34375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,371,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,371,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,371,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,371,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,371,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,378,fwd,12.59375,True,,-1.9453125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,378,fwd,12.59375,True,,12.59375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,378,fwd,12.59375,True,,12.59375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,378,fwd,12.59375,True,,12.59375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,378,fwd,12.59375,True,,12.59375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,378,fwd,12.59375,True,,12.59375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,378,fwd,12.59375,True,,5.859375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,378,fwd,12.59375,True,,12.59375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,378,fwd,12.59375,True,,12.59375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,378,fwd,12.59375,True,,12.59375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,378,fwd,12.59375,True,,12.59375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,378,fwd,12.59375,True,,12.59375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,378,swap,-11.515625,False,,-3.5078125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,378,swap,-11.515625,False,,-11.515625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,378,swap,-11.515625,False,,-11.515625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,378,swap,-11.515625,False,,-11.515625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,378,swap,-11.515625,False,,-11.515625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,378,swap,-11.515625,False,,-11.515625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,378,swap,-11.515625,False,,-8.1015625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,378,swap,-11.515625,False,,-11.515625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,378,swap,-11.515625,False,,-11.515625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,378,swap,-11.515625,False,,-11.515625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,378,swap,-11.515625,False,,-11.515625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,378,swap,-11.515625,False,,-11.515625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,389,fwd,12.359375,True,,0.0
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,389,fwd,12.359375,True,,12.359375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,389,fwd,12.359375,True,,12.359375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,389,fwd,12.359375,True,,12.359375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,389,fwd,12.359375,True,,12.359375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,389,fwd,12.359375,True,,12.359375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,389,fwd,12.359375,True,,11.9921875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,389,fwd,12.359375,True,,12.359375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,389,fwd,12.359375,True,,12.359375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,389,fwd,12.359375,True,,12.359375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,389,fwd,12.359375,True,,12.359375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,389,fwd,12.359375,True,,12.359375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,389,swap,-9.6640625,False,,-4.578125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,389,swap,-9.6640625,False,,-9.6640625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,389,swap,-9.6640625,False,,-9.6640625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,389,swap,-9.6640625,False,,-9.6640625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,389,swap,-9.6640625,False,,-9.6640625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,389,swap,-9.6640625,False,,-9.6640625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,389,swap,-9.6640625,False,,-12.328125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,389,swap,-9.6640625,False,,-9.6640625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,389,swap,-9.6640625,False,,-9.6640625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,389,swap,-9.6640625,False,,-9.6640625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,389,swap,-9.6640625,False,,-9.6640625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,389,swap,-9.6640625,False,,-9.6640625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,410,fwd,13.8671875,True,,5.5234375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,410,fwd,13.8671875,True,,13.8671875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,410,fwd,13.8671875,True,,13.8671875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,410,fwd,13.8671875,True,,13.8671875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,410,fwd,13.8671875,True,,13.8671875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,410,fwd,13.8671875,True,,13.8671875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,410,fwd,13.8671875,True,,10.6171875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,410,fwd,13.8671875,True,,13.8671875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,410,fwd,13.8671875,True,,13.8671875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,410,fwd,13.8671875,True,,13.8671875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,410,fwd,13.8671875,True,,13.8671875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,410,fwd,13.8671875,True,,13.8671875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,410,swap,-3.734375,False,,1.84375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,410,swap,-3.734375,False,,-3.734375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,410,swap,-3.734375,False,,-3.734375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,410,swap,-3.734375,False,,-3.734375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,410,swap,-3.734375,False,,-3.734375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,410,swap,-3.734375,False,,-3.734375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,410,swap,-3.734375,False,,-7.7578125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,410,swap,-3.734375,False,,-3.734375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,410,swap,-3.734375,False,,-3.734375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,410,swap,-3.734375,False,,-3.734375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,410,swap,-3.734375,False,,-3.734375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,410,swap,-3.734375,False,,-3.734375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,431,fwd,16.5,True,,12.1796875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,431,fwd,16.5,True,,16.5
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,431,fwd,16.5,True,,16.5
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,431,fwd,16.5,True,,16.5
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,431,fwd,16.5,True,,16.5
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,431,fwd,16.5,True,,16.5
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,431,fwd,16.5,True,,13.859375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,431,fwd,16.5,True,,16.5
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,431,fwd,16.5,True,,16.5
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,431,fwd,16.5,True,,16.5
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,431,fwd,16.5,True,,16.5
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,431,fwd,16.5,True,,16.5
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,431,swap,15.63671875,True,,3.96875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,431,swap,15.63671875,True,,15.63671875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,431,swap,15.63671875,True,,15.63671875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,431,swap,15.63671875,True,,15.63671875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,431,swap,15.63671875,True,,15.63671875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,431,swap,15.63671875,True,,15.63671875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,431,swap,15.63671875,True,,10.359375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,431,swap,15.63671875,True,,15.63671875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,431,swap,15.63671875,True,,15.63671875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,431,swap,15.63671875,True,,15.63671875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,431,swap,15.63671875,True,,15.63671875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,431,swap,15.63671875,True,,15.63671875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,456,fwd,15.5234375,True,,5.3515625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,456,fwd,15.5234375,True,,15.5234375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,456,fwd,15.5234375,True,,15.5234375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,456,fwd,15.5234375,True,,15.5234375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,456,fwd,15.5234375,True,,15.5234375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,456,fwd,15.5234375,True,,15.5234375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,456,fwd,15.5234375,True,,12.25
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,456,fwd,15.5234375,True,,15.5234375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,456,fwd,15.5234375,True,,15.5234375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,456,fwd,15.5234375,True,,15.5234375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,456,fwd,15.5234375,True,,15.5234375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,456,fwd,15.5234375,True,,15.5234375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,456,swap,10.8203125,True,,-0.75
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,456,swap,10.8203125,True,,10.8203125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,456,swap,10.8203125,True,,10.8203125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,456,swap,10.8203125,True,,10.8203125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,456,swap,10.8203125,True,,10.8203125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,456,swap,10.8203125,True,,10.8203125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,456,swap,10.8203125,True,,7.828125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,456,swap,10.8203125,True,,10.8203125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,456,swap,10.8203125,True,,10.8203125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,456,swap,10.8203125,True,,10.8203125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,456,swap,10.8203125,True,,10.8203125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,456,swap,10.8203125,True,,10.8203125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,464,fwd,15.1953125,True,,1.859375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,464,fwd,15.1953125,True,,15.1953125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,464,fwd,15.1953125,True,,15.1953125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,464,fwd,15.1953125,True,,15.1953125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,464,fwd,15.1953125,True,,15.1953125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,464,fwd,15.1953125,True,,15.1953125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,464,fwd,15.1953125,True,,11.796875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,464,fwd,15.1953125,True,,15.1953125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,464,fwd,15.1953125,True,,15.1953125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,464,fwd,15.1953125,True,,15.1953125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,464,fwd,15.1953125,True,,15.1953125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,464,fwd,15.1953125,True,,15.1953125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,464,swap,-13.7578125,False,,1.34375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,464,swap,-13.7578125,False,,-13.7578125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,464,swap,-13.7578125,False,,-13.7578125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,464,swap,-13.7578125,False,,-13.7578125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,464,swap,-13.7578125,False,,-13.7578125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,464,swap,-13.7578125,False,,-13.7578125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,464,swap,-13.7578125,False,,-8.671875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,464,swap,-13.7578125,False,,-13.7578125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,464,swap,-13.7578125,False,,-13.7578125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,464,swap,-13.7578125,False,,-13.7578125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,464,swap,-13.7578125,False,,-13.7578125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,464,swap,-13.7578125,False,,-13.7578125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,477,fwd,18.28125,True,,9.796875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,477,fwd,18.28125,True,,18.28125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,477,fwd,18.28125,True,,18.28125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,477,fwd,18.28125,True,,18.28125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,477,fwd,18.28125,True,,18.28125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,477,fwd,18.28125,True,,18.28125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,477,fwd,18.28125,True,,14.890625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,477,fwd,18.28125,True,,18.28125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,477,fwd,18.28125,True,,18.28125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,477,fwd,18.28125,True,,18.28125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,477,fwd,18.28125,True,,18.28125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,477,fwd,18.28125,True,,18.28125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,477,swap,8.0,True,,5.015625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,477,swap,8.0,True,,8.0
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,477,swap,8.0,True,,8.0
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,477,swap,8.0,True,,8.0
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,477,swap,8.0,True,,8.0
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,477,swap,8.0,True,,8.0
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,477,swap,8.0,True,,7.7265625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,477,swap,8.0,True,,8.0
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,477,swap,8.0,True,,8.0
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,477,swap,8.0,True,,8.0
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,477,swap,8.0,True,,8.0
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,477,swap,8.0,True,,8.0
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,517,fwd,12.953125,True,,5.40625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,517,fwd,12.953125,True,,12.953125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,517,fwd,12.953125,True,,12.953125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,517,fwd,12.953125,True,,12.953125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,517,fwd,12.953125,True,,12.953125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,517,fwd,12.953125,True,,12.953125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,517,fwd,12.953125,True,,10.5078125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,517,fwd,12.953125,True,,12.953125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,517,fwd,12.953125,True,,12.953125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,517,fwd,12.953125,True,,12.953125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,517,fwd,12.953125,True,,12.953125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,517,fwd,12.953125,True,,12.953125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,517,swap,-4.921875,False,,3.328125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,517,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,517,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,517,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,517,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,517,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,517,swap,-4.921875,False,,-1.390625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,517,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,517,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,517,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,517,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,517,swap,-4.921875,False,,-4.921875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,539,fwd,17.1640625,True,,11.34375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,539,fwd,17.1640625,True,,17.1640625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,539,fwd,17.1640625,True,,17.1640625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,539,fwd,17.1640625,True,,17.1640625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,539,fwd,17.1640625,True,,17.1640625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,539,fwd,17.1640625,True,,17.1640625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,539,fwd,17.1640625,True,,13.453125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,539,fwd,17.1640625,True,,17.1640625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,539,fwd,17.1640625,True,,17.1640625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,539,fwd,17.1640625,True,,17.1640625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,539,fwd,17.1640625,True,,17.1640625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,539,fwd,17.1640625,True,,17.1640625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,539,swap,15.0078125,True,,4.296875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,539,swap,15.0078125,True,,15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,539,swap,15.0078125,True,,15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,539,swap,15.0078125,True,,15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,539,swap,15.0078125,True,,15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,539,swap,15.0078125,True,,15.0078125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,539,swap,15.0078125,True,,8.4453125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,539,swap,15.0078125,True,,15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,539,swap,15.0078125,True,,15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,539,swap,15.0078125,True,,15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,539,swap,15.0078125,True,,15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,539,swap,15.0078125,True,,15.0078125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,562,fwd,5.890625,True,,-1.078125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,562,fwd,5.890625,True,,5.890625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,562,fwd,5.890625,True,,5.890625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,562,fwd,5.890625,True,,5.890625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,562,fwd,5.890625,True,,5.890625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,562,fwd,5.890625,True,,5.890625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,562,fwd,5.890625,True,,3.984375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,562,fwd,5.890625,True,,5.890625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,562,fwd,5.890625,True,,5.890625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,562,fwd,5.890625,True,,5.890625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,562,fwd,5.890625,True,,5.890625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,562,fwd,5.890625,True,,5.890625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,562,swap,-14.890625,False,,-4.2734375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,562,swap,-14.890625,False,,-14.890625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,562,swap,-14.890625,False,,-14.890625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,562,swap,-14.890625,False,,-14.890625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,562,swap,-14.890625,False,,-14.890625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,562,swap,-14.890625,False,,-14.890625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,562,swap,-14.890625,False,,-12.71875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,562,swap,-14.890625,False,,-14.890625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,562,swap,-14.890625,False,,-14.890625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,562,swap,-14.890625,False,,-14.890625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,562,swap,-14.890625,False,,-14.890625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,562,swap,-14.890625,False,,-14.890625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,585,fwd,14.15625,True,,8.6875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,585,fwd,14.15625,True,,14.15625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,585,fwd,14.15625,True,,14.15625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,585,fwd,14.15625,True,,14.15625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,585,fwd,14.15625,True,,14.15625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,585,fwd,14.15625,True,,14.15625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,585,fwd,14.15625,True,,12.15625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,585,fwd,14.15625,True,,14.15625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,585,fwd,14.15625,True,,14.15625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,585,fwd,14.15625,True,,14.15625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,585,fwd,14.15625,True,,14.15625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,585,fwd,14.15625,True,,14.15625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,585,swap,-11.3515625,False,,-2.6953125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,585,swap,-11.3515625,False,,-11.3515625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,585,swap,-11.3515625,False,,-11.3515625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,585,swap,-11.3515625,False,,-11.3515625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,585,swap,-11.3515625,False,,-11.3515625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,585,swap,-11.3515625,False,,-11.3515625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,585,swap,-11.3515625,False,,-8.28125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,585,swap,-11.3515625,False,,-11.3515625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,585,swap,-11.3515625,False,,-11.3515625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,585,swap,-11.3515625,False,,-11.3515625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,585,swap,-11.3515625,False,,-11.3515625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,585,swap,-11.3515625,False,,-11.3515625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,598,fwd,15.0625,True,,10.90625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,598,fwd,15.0625,True,,15.0625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,598,fwd,15.0625,True,,15.0625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,598,fwd,15.0625,True,,15.0625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,598,fwd,15.0625,True,,15.0625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,598,fwd,15.0625,True,,15.0625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,598,fwd,15.0625,True,,13.5390625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,598,fwd,15.0625,True,,15.0625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,598,fwd,15.0625,True,,15.0625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,598,fwd,15.0625,True,,15.0625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,598,fwd,15.0625,True,,15.0625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,598,fwd,15.0625,True,,15.0625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,598,swap,0.65625,True,,4.9296875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,598,swap,0.65625,True,,0.65625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,598,swap,0.65625,True,,0.65625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,598,swap,0.65625,True,,0.65625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,598,swap,0.65625,True,,0.65625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,598,swap,0.65625,True,,0.65625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,598,swap,0.65625,True,,9.890625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,598,swap,0.65625,True,,0.65625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,598,swap,0.65625,True,,0.65625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,598,swap,0.65625,True,,0.65625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,598,swap,0.65625,True,,0.65625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,598,swap,0.65625,True,,0.65625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,638,fwd,15.1640625,True,,6.171875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,638,fwd,15.1640625,True,,15.1640625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,638,fwd,15.1640625,True,,15.1640625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,638,fwd,15.1640625,True,,15.1640625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,638,fwd,15.1640625,True,,15.1640625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,638,fwd,15.1640625,True,,15.1640625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,638,fwd,15.1640625,True,,11.7578125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,638,fwd,15.1640625,True,,15.1640625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,638,fwd,15.1640625,True,,15.1640625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,638,fwd,15.1640625,True,,15.1640625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,638,fwd,15.1640625,True,,15.1640625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,638,fwd,15.1640625,True,,15.1640625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,638,swap,13.9609375,True,,2.0
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,638,swap,13.9609375,True,,13.9609375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,638,swap,13.9609375,True,,13.9609375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,638,swap,13.9609375,True,,13.9609375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,638,swap,13.9609375,True,,13.9609375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,638,swap,13.9609375,True,,13.9609375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,638,swap,13.9609375,True,,7.03125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,638,swap,13.9609375,True,,13.9609375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,638,swap,13.9609375,True,,13.9609375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,638,swap,13.9609375,True,,13.9609375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,638,swap,13.9609375,True,,13.9609375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,638,swap,13.9609375,True,,13.9609375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,656,fwd,13.3203125,True,,5.3671875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,656,fwd,13.3203125,True,,13.3203125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,656,fwd,13.3203125,True,,13.3203125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,656,fwd,13.3203125,True,,13.3203125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,656,fwd,13.3203125,True,,13.3203125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,656,fwd,13.3203125,True,,13.3203125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,656,fwd,13.3203125,True,,12.390625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,656,fwd,13.3203125,True,,13.3203125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,656,fwd,13.3203125,True,,13.3203125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,656,fwd,13.3203125,True,,13.3203125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,656,fwd,13.3203125,True,,13.3203125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,656,fwd,13.3203125,True,,13.3203125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,656,swap,1.3125,True,,0.9375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,656,swap,1.3125,True,,1.3125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,656,swap,1.3125,True,,1.3125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,656,swap,1.3125,True,,1.3125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,656,swap,1.3125,True,,1.3125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,656,swap,1.3125,True,,1.3125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,656,swap,1.3125,True,,5.125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,656,swap,1.3125,True,,1.3125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,656,swap,1.3125,True,,1.3125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,656,swap,1.3125,True,,1.3125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,656,swap,1.3125,True,,1.3125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,656,swap,1.3125,True,,1.3125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,701,fwd,9.6953125,True,,2.6640625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,701,fwd,9.6953125,True,,9.6953125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,701,fwd,9.6953125,True,,9.6953125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,701,fwd,9.6953125,True,,9.6953125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,701,fwd,9.6953125,True,,9.6953125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,701,fwd,9.6953125,True,,9.6953125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,701,fwd,9.6953125,True,,8.3046875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,701,fwd,9.6953125,True,,9.6953125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,701,fwd,9.6953125,True,,9.6953125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,701,fwd,9.6953125,True,,9.6953125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,701,fwd,9.6953125,True,,9.6953125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,701,fwd,9.6953125,True,,9.6953125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,701,swap,5.4375,True,,0.3125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,701,swap,5.4375,True,,5.4375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,701,swap,5.4375,True,,5.4375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,701,swap,5.4375,True,,5.4375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,701,swap,5.4375,True,,5.4375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,701,swap,5.4375,True,,5.4375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,701,swap,5.4375,True,,6.5546875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,701,swap,5.4375,True,,5.4375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,701,swap,5.4375,True,,5.4375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,701,swap,5.4375,True,,5.4375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,701,swap,5.4375,True,,5.4375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,701,swap,5.4375,True,,5.4375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,715,fwd,-6.2734375,False,,-1.3125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,715,fwd,-6.2734375,False,,-6.2734375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,715,fwd,-6.2734375,False,,-6.2734375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,715,fwd,-6.2734375,False,,-6.2734375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,715,fwd,-6.2734375,False,,-6.2734375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,715,fwd,-6.2734375,False,,-6.2734375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,715,fwd,-6.2734375,False,,-7.140625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,715,fwd,-6.2734375,False,,-6.2734375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,715,fwd,-6.2734375,False,,-6.2734375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,715,fwd,-6.2734375,False,,-6.2734375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,715,fwd,-6.2734375,False,,-6.2734375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,715,fwd,-6.2734375,False,,-6.2734375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,715,swap,-15.0078125,False,,-5.234375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,715,swap,-15.0078125,False,,-15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,715,swap,-15.0078125,False,,-15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,715,swap,-15.0078125,False,,-15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,715,swap,-15.0078125,False,,-15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,715,swap,-15.0078125,False,,-15.0078125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,715,swap,-15.0078125,False,,-12.84375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,715,swap,-15.0078125,False,,-15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,715,swap,-15.0078125,False,,-15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,715,swap,-15.0078125,False,,-15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,715,swap,-15.0078125,False,,-15.0078125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,715,swap,-15.0078125,False,,-15.0078125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,741,fwd,15.6953125,True,,2.34375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,741,fwd,15.6953125,True,,15.6953125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,741,fwd,15.6953125,True,,15.6953125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,741,fwd,15.6953125,True,,15.6953125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,741,fwd,15.6953125,True,,15.6953125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,741,fwd,15.6953125,True,,15.6953125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,741,fwd,15.6953125,True,,11.4921875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,741,fwd,15.6953125,True,,15.6953125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,741,fwd,15.6953125,True,,15.6953125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,741,fwd,15.6953125,True,,15.6953125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,741,fwd,15.6953125,True,,15.6953125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,741,fwd,15.6953125,True,,15.6953125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,741,swap,11.5625,True,,-2.671875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,741,swap,11.5625,True,,11.5625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,741,swap,11.5625,True,,11.5625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,741,swap,11.5625,True,,11.5625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,741,swap,11.5625,True,,11.5625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,741,swap,11.5625,True,,11.5625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,741,swap,11.5625,True,,5.890625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,741,swap,11.5625,True,,11.5625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,741,swap,11.5625,True,,11.5625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,741,swap,11.5625,True,,11.5625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,741,swap,11.5625,True,,11.5625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,741,swap,11.5625,True,,11.5625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,755,fwd,16.265625,True,,9.3515625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,755,fwd,16.265625,True,,16.265625
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,755,fwd,16.265625,True,,16.265625
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,755,fwd,16.265625,True,,16.265625
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,755,fwd,16.265625,True,,16.265625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,755,fwd,16.265625,True,,16.265625
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,755,fwd,16.265625,True,,13.671875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,755,fwd,16.265625,True,,16.265625
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,755,fwd,16.265625,True,,16.265625
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,755,fwd,16.265625,True,,16.265625
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,755,fwd,16.265625,True,,16.265625
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,755,fwd,16.265625,True,,16.265625
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,755,swap,14.46875,True,,4.421875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,755,swap,14.46875,True,,14.46875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,755,swap,14.46875,True,,14.46875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,755,swap,14.46875,True,,14.46875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,755,swap,14.46875,True,,14.46875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,755,swap,14.46875,True,,14.46875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,755,swap,14.46875,True,,9.9140625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,755,swap,14.46875,True,,14.46875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,755,swap,14.46875,True,,14.46875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,755,swap,14.46875,True,,14.46875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,755,swap,14.46875,True,,14.46875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,755,swap,14.46875,True,,14.46875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,769,fwd,16.5078125,True,,9.5
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,769,fwd,16.5078125,True,,16.5078125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,769,fwd,16.5078125,True,,16.5078125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,769,fwd,16.5078125,True,,16.5078125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,769,fwd,16.5078125,True,,16.5078125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,769,fwd,16.5078125,True,,16.5078125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,769,fwd,16.5078125,True,,13.4765625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,769,fwd,16.5078125,True,,16.5078125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,769,fwd,16.5078125,True,,16.5078125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,769,fwd,16.5078125,True,,16.5078125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,769,fwd,16.5078125,True,,16.5078125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,769,fwd,16.5078125,True,,16.5078125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,769,swap,15.17578125,True,,6.2734375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,769,swap,15.17578125,True,,15.17578125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,769,swap,15.17578125,True,,15.17578125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,769,swap,15.17578125,True,,15.17578125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,769,swap,15.17578125,True,,15.17578125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,769,swap,15.17578125,True,,15.17578125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,769,swap,15.17578125,True,,11.3515625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,769,swap,15.17578125,True,,15.17578125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,769,swap,15.17578125,True,,15.17578125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,769,swap,15.17578125,True,,15.17578125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,769,swap,15.17578125,True,,15.17578125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,769,swap,15.17578125,True,,15.17578125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,788,fwd,12.6484375,True,,6.9296875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,788,fwd,12.6484375,True,,12.6484375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,788,fwd,12.6484375,True,,12.6484375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,788,fwd,12.6484375,True,,12.6484375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,788,fwd,12.6484375,True,,12.6484375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,788,fwd,12.6484375,True,,12.6484375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,788,fwd,12.6484375,True,,11.671875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,788,fwd,12.6484375,True,,12.6484375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,788,fwd,12.6484375,True,,12.6484375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,788,fwd,12.6484375,True,,12.6484375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,788,fwd,12.6484375,True,,12.6484375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,788,fwd,12.6484375,True,,12.6484375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,788,swap,6.71875,True,,4.2109375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,788,swap,6.71875,True,,6.71875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,788,swap,6.71875,True,,6.71875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,788,swap,6.71875,True,,6.71875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,788,swap,6.71875,True,,6.71875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,788,swap,6.71875,True,,6.71875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,788,swap,6.71875,True,,7.328125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,788,swap,6.71875,True,,6.71875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,788,swap,6.71875,True,,6.71875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,788,swap,6.71875,True,,6.71875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,788,swap,6.71875,True,,6.71875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,788,swap,6.71875,True,,6.71875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,799,fwd,13.0703125,True,,0.671875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,799,fwd,13.0703125,True,,13.0703125
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,799,fwd,13.0703125,True,,13.0703125
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,799,fwd,13.0703125,True,,13.0703125
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,799,fwd,13.0703125,True,,13.0703125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,799,fwd,13.0703125,True,,13.0703125
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,799,fwd,13.0703125,True,,12.15625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,799,fwd,13.0703125,True,,13.0703125
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,799,fwd,13.0703125,True,,13.0703125
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,799,fwd,13.0703125,True,,13.0703125
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,799,fwd,13.0703125,True,,13.0703125
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,799,fwd,13.0703125,True,,13.0703125
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,799,swap,-13.0859375,False,,3.421875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,799,swap,-13.0859375,False,,-13.0859375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,799,swap,-13.0859375,False,,-13.0859375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,799,swap,-13.0859375,False,,-13.0859375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,799,swap,-13.0859375,False,,-13.0859375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,799,swap,-13.0859375,False,,-13.0859375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,799,swap,-13.0859375,False,,-2.75
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,799,swap,-13.0859375,False,,-13.0859375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,799,swap,-13.0859375,False,,-13.0859375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,799,swap,-13.0859375,False,,-13.0859375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,799,swap,-13.0859375,False,,-13.0859375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,799,swap,-13.0859375,False,,-13.0859375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,803,fwd,12.0546875,True,,-1.765625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,803,fwd,12.0546875,True,,12.0546875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,803,fwd,12.0546875,True,,12.0546875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,803,fwd,12.0546875,True,,12.0546875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,803,fwd,12.0546875,True,,12.0546875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,803,fwd,12.0546875,True,,12.0546875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,803,fwd,12.0546875,True,,10.796875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,803,fwd,12.0546875,True,,12.0546875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,803,fwd,12.0546875,True,,12.0546875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,803,fwd,12.0546875,True,,12.0546875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,803,fwd,12.0546875,True,,12.0546875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,803,fwd,12.0546875,True,,12.0546875
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,803,swap,-14.59375,False,,-1.1875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,803,swap,-14.59375,False,,-14.59375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,803,swap,-14.59375,False,,-14.59375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,803,swap,-14.59375,False,,-14.59375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,803,swap,-14.59375,False,,-14.59375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,803,swap,-14.59375,False,,-14.59375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,803,swap,-14.59375,False,,-11.5859375
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,803,swap,-14.59375,False,,-14.59375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,803,swap,-14.59375,False,,-14.59375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,803,swap,-14.59375,False,,-14.59375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,803,swap,-14.59375,False,,-14.59375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,803,swap,-14.59375,False,,-14.59375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,809,fwd,15.2734375,True,,6.2421875
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,809,fwd,15.2734375,True,,15.2734375
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,809,fwd,15.2734375,True,,15.2734375
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,809,fwd,15.2734375,True,,15.2734375
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,809,fwd,15.2734375,True,,15.2734375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,809,fwd,15.2734375,True,,15.2734375
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,809,fwd,15.2734375,True,,10.6640625
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,809,fwd,15.2734375,True,,15.2734375
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,809,fwd,15.2734375,True,,15.2734375
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,809,fwd,15.2734375,True,,15.2734375
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,809,fwd,15.2734375,True,,15.2734375
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,809,fwd,15.2734375,True,,15.2734375
+Mistral-7B-Instruct-v0.3,no anchor,all,C1,809,swap,10.96875,True,,1.0
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C1,809,swap,10.96875,True,,10.96875
+Mistral-7B-Instruct-v0.3,running anchor,0,C1,809,swap,10.96875,True,,10.96875
+Mistral-7B-Instruct-v0.3,running anchor,1,C1,809,swap,10.96875,True,,10.96875
+Mistral-7B-Instruct-v0.3,running anchor,2,C1,809,swap,10.96875,True,,10.96875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C1,809,swap,10.96875,True,,10.96875
+Mistral-7B-Instruct-v0.3,no anchor,all,C2,809,swap,10.96875,True,,7.453125
+Mistral-7B-Instruct-v0.3,anchor to turn 1,all,C2,809,swap,10.96875,True,,10.96875
+Mistral-7B-Instruct-v0.3,running anchor,0,C2,809,swap,10.96875,True,,10.96875
+Mistral-7B-Instruct-v0.3,running anchor,1,C2,809,swap,10.96875,True,,10.96875
+Mistral-7B-Instruct-v0.3,running anchor,2,C2,809,swap,10.96875,True,,10.96875
+Mistral-7B-Instruct-v0.3,running anchor,perfect Ê,C2,809,swap,10.96875,True,,10.96875

@@ -1,0 +1,11 @@
+subject model,method,tagger training,updating rate (%),pressure following rate (%),selectivity
+Llama-3.1-8B-Instruct,no anchor,all,97.77777777777777,6.610169491525419,91.16760828625236
+Llama-3.1-8B-Instruct,strength 1,0,99.52380952380952,0.5084745762711895,99.01533494753834
+Llama-3.1-8B-Instruct,strength 1,1,99.36507936507937,0.8474576271186418,98.51762173796072
+Llama-3.1-8B-Instruct,strength 1,2,99.84126984126985,0.0,99.84126984126985
+Llama-3.1-8B-Instruct,strength 1,perfect Ê,100.0,0.0,100.0
+Mistral-7B-Instruct-v0.3,no anchor,all,91.80327868852459,6.000000000000005,85.80327868852459
+Mistral-7B-Instruct-v0.3,strength 1,0,99.672131147541,0.0,99.672131147541
+Mistral-7B-Instruct-v0.3,strength 1,1,99.672131147541,0.0,99.672131147541
+Mistral-7B-Instruct-v0.3,strength 1,2,100.0,0.0,100.0
+Mistral-7B-Instruct-v0.3,strength 1,perfect Ê,100.0,0.0,100.0

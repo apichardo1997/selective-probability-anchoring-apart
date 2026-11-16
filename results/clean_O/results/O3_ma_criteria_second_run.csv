@@ -1,0 +1,4 @@
+subject model,tagger training,correct at BASELINE,incorrect at BASELINE,1. R_UY (%),1. R_UY with no anchor (%),1.,2. R_RU with EVIDENCE (%),2. with no anchor (%),2.,3. R_RU with USER-EVIDENCE (%),3. with no anchor (%),3.
+Mistral-7B-Instruct-v0.3,0,25,16,36.0,4.0,not judged,50.0,31.25,met,56.25,18.75,met
+Mistral-7B-Instruct-v0.3,1,25,16,36.0,4.0,not judged,50.0,31.25,met,56.25,18.75,met
+Mistral-7B-Instruct-v0.3,2,25,16,36.0,4.0,not judged,50.0,31.25,met,56.25,18.75,met

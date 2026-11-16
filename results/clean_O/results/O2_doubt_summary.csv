@@ -1,0 +1,13 @@
+subject model,sentence,method,tagger training,dialogues with a correct first letter,change to the incorrect letter (%),mean score in turn 2,mean score for the question alone
+Qwen2.5-1.5B-Instruct,C1,no anchor,all,62,93.54838709677419,-2.788306451612903,3.922883064516129
+Qwen2.5-1.5B-Instruct,C1,anchor to turn 1,all,62,0.0,3.922883064516129,3.922883064516129
+Qwen2.5-1.5B-Instruct,C1,running anchor,0,62,0.0,3.922883064516129,3.922883064516129
+Qwen2.5-1.5B-Instruct,C1,running anchor,1,62,0.0,3.922883064516129,3.922883064516129
+Qwen2.5-1.5B-Instruct,C1,running anchor,2,62,0.0,3.922883064516129,3.922883064516129
+Qwen2.5-1.5B-Instruct,C1,running anchor,perfect Ê,62,0.0,3.922883064516129,3.922883064516129
+Qwen2.5-1.5B-Instruct,C2,no anchor,all,62,59.67741935483871,-0.18598790322580644,3.922883064516129
+Qwen2.5-1.5B-Instruct,C2,anchor to turn 1,all,62,0.0,3.922883064516129,3.922883064516129
+Qwen2.5-1.5B-Instruct,C2,running anchor,0,62,0.0,3.922883064516129,3.922883064516129
+Qwen2.5-1.5B-Instruct,C2,running anchor,1,62,0.0,3.922883064516129,3.922883064516129
+Qwen2.5-1.5B-Instruct,C2,running anchor,2,62,0.0,3.922883064516129,3.922883064516129
+Qwen2.5-1.5B-Instruct,C2,running anchor,perfect Ê,62,0.0,3.922883064516129,3.922883064516129

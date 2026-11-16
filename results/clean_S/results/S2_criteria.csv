@@ -1,0 +1,4 @@
+subject model,tagger training,MES,5. correction taken in (%),5.,6. distance to the question alone (% of MES),6.
+Qwen2.5-1.5B-Instruct,0,1.0911458333333333,100.0,met,1.1762700306853124,met
+Qwen2.5-1.5B-Instruct,1,1.0911458333333333,100.0,met,9.341970678486195,met
+Qwen2.5-1.5B-Instruct,2,1.0911458333333333,100.0,met,4.500511421752476,met

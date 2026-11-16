@@ -1,0 +1,985 @@
+subject model,method,tagger training,sentence,question,order,base,first letter correct,e_hat,score
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,26,fwd,1.9375,True,,-3.90625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,26,fwd,1.9375,True,,1.9375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,26,fwd,1.9375,True,,1.9375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,26,fwd,1.9375,True,,1.9375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,26,fwd,1.9375,True,,1.9375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,26,fwd,1.9375,True,,1.9375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,26,fwd,1.9375,True,,-0.796875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,26,fwd,1.9375,True,,1.9375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,26,fwd,1.9375,True,,1.9375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,26,fwd,1.9375,True,,1.9375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,26,fwd,1.9375,True,,1.9375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,26,fwd,1.9375,True,,1.9375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,26,swap,6.515625,True,,-1.140625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,26,swap,6.515625,True,,6.515625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,26,swap,6.515625,True,,6.515625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,26,swap,6.515625,True,,6.515625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,26,swap,6.515625,True,,6.515625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,26,swap,6.515625,True,,6.515625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,26,swap,6.515625,True,,1.96875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,26,swap,6.515625,True,,6.515625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,26,swap,6.515625,True,,6.515625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,26,swap,6.515625,True,,6.515625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,26,swap,6.515625,True,,6.515625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,26,swap,6.515625,True,,6.515625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,39,fwd,2.65625,True,,-4.71875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,39,fwd,2.65625,True,,2.65625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,39,fwd,2.65625,True,,2.65625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,39,fwd,2.65625,True,,2.65625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,39,fwd,2.65625,True,,2.65625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,39,fwd,2.65625,True,,2.65625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,39,fwd,2.65625,True,,-3.390625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,39,fwd,2.65625,True,,2.65625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,39,fwd,2.65625,True,,2.65625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,39,fwd,2.65625,True,,2.65625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,39,fwd,2.65625,True,,2.65625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,39,fwd,2.65625,True,,2.65625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,39,swap,-2.0625,False,,4.5625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,39,swap,-2.0625,False,,-2.0625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,39,swap,-2.0625,False,,-2.0625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,39,swap,-2.0625,False,,-2.0625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,39,swap,-2.0625,False,,-2.0625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,39,swap,-2.0625,False,,-2.0625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,39,swap,-2.0625,False,,2.140625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,39,swap,-2.0625,False,,-2.0625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,39,swap,-2.0625,False,,-2.0625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,39,swap,-2.0625,False,,-2.0625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,39,swap,-2.0625,False,,-2.0625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,39,swap,-2.0625,False,,-2.0625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,69,fwd,4.21875,True,,-3.65625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,69,fwd,4.21875,True,,4.21875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,69,fwd,4.21875,True,,4.21875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,69,fwd,4.21875,True,,4.21875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,69,fwd,4.21875,True,,4.21875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,69,fwd,4.21875,True,,4.21875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,69,fwd,4.21875,True,,-0.640625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,69,fwd,4.21875,True,,4.21875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,69,fwd,4.21875,True,,4.21875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,69,fwd,4.21875,True,,4.21875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,69,fwd,4.21875,True,,4.21875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,69,fwd,4.21875,True,,4.21875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,69,swap,5.703125,True,,-0.40625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,69,swap,5.703125,True,,5.703125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,69,swap,5.703125,True,,5.703125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,69,swap,5.703125,True,,5.703125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,69,swap,5.703125,True,,5.703125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,69,swap,5.703125,True,,5.703125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,69,swap,5.703125,True,,1.21875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,69,swap,5.703125,True,,5.703125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,69,swap,5.703125,True,,5.703125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,69,swap,5.703125,True,,5.703125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,69,swap,5.703125,True,,5.703125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,69,swap,5.703125,True,,5.703125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,85,fwd,4.828125,True,,-4.265625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,85,fwd,4.828125,True,,4.828125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,85,fwd,4.828125,True,,4.828125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,85,fwd,4.828125,True,,4.828125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,85,fwd,4.828125,True,,4.828125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,85,fwd,4.828125,True,,4.828125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,85,fwd,4.828125,True,,0.3125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,85,fwd,4.828125,True,,4.828125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,85,fwd,4.828125,True,,4.828125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,85,fwd,4.828125,True,,4.828125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,85,fwd,4.828125,True,,4.828125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,85,fwd,4.828125,True,,4.828125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,85,swap,4.578125,True,,-1.265625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,85,swap,4.578125,True,,4.578125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,85,swap,4.578125,True,,4.578125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,85,swap,4.578125,True,,4.578125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,85,swap,4.578125,True,,4.578125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,85,swap,4.578125,True,,4.578125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,85,swap,4.578125,True,,0.359375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,85,swap,4.578125,True,,4.578125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,85,swap,4.578125,True,,4.578125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,85,swap,4.578125,True,,4.578125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,85,swap,4.578125,True,,4.578125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,85,swap,4.578125,True,,4.578125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,95,fwd,2.890625,True,,-5.546875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,95,fwd,2.890625,True,,2.890625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,95,fwd,2.890625,True,,2.890625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,95,fwd,2.890625,True,,2.890625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,95,fwd,2.890625,True,,2.890625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,95,fwd,2.890625,True,,2.890625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,95,fwd,2.890625,True,,-2.703125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,95,fwd,2.890625,True,,2.890625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,95,fwd,2.890625,True,,2.890625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,95,fwd,2.890625,True,,2.890625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,95,fwd,2.890625,True,,2.890625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,95,fwd,2.890625,True,,2.890625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,95,swap,-5.0,False,,5.265625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,95,swap,-5.0,False,,-5.0
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,95,swap,-5.0,False,,-5.0
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,95,swap,-5.0,False,,-5.0
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,95,swap,-5.0,False,,-5.0
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,95,swap,-5.0,False,,-5.0
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,95,swap,-5.0,False,,2.53125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,95,swap,-5.0,False,,-5.0
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,95,swap,-5.0,False,,-5.0
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,95,swap,-5.0,False,,-5.0
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,95,swap,-5.0,False,,-5.0
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,95,swap,-5.0,False,,-5.0
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,109,fwd,4.71875,True,,-5.390625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,109,fwd,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,109,fwd,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,109,fwd,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,109,fwd,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,109,fwd,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,109,fwd,4.71875,True,,-2.9375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,109,fwd,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,109,fwd,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,109,fwd,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,109,fwd,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,109,fwd,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,109,swap,2.03125,True,,-1.53125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,109,swap,2.03125,True,,2.03125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,109,swap,2.03125,True,,2.03125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,109,swap,2.03125,True,,2.03125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,109,swap,2.03125,True,,2.03125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,109,swap,2.03125,True,,2.03125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,109,swap,2.03125,True,,-0.015625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,109,swap,2.03125,True,,2.03125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,109,swap,2.03125,True,,2.03125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,109,swap,2.03125,True,,2.03125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,109,swap,2.03125,True,,2.03125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,109,swap,2.03125,True,,2.03125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,123,fwd,6.078125,True,,-5.15625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,123,fwd,6.078125,True,,6.078125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,123,fwd,6.078125,True,,6.078125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,123,fwd,6.078125,True,,6.078125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,123,fwd,6.078125,True,,6.078125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,123,fwd,6.078125,True,,6.078125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,123,fwd,6.078125,True,,-1.125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,123,fwd,6.078125,True,,6.078125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,123,fwd,6.078125,True,,6.078125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,123,fwd,6.078125,True,,6.078125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,123,fwd,6.078125,True,,6.078125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,123,fwd,6.078125,True,,6.078125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,123,swap,2.09375,True,,-0.75
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,123,swap,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,123,swap,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,123,swap,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,123,swap,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,123,swap,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,123,swap,2.09375,True,,0.8125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,123,swap,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,123,swap,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,123,swap,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,123,swap,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,123,swap,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,156,fwd,4.0625,True,,-4.609375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,156,fwd,4.0625,True,,4.0625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,156,fwd,4.0625,True,,4.0625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,156,fwd,4.0625,True,,4.0625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,156,fwd,4.0625,True,,4.0625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,156,fwd,4.0625,True,,4.0625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,156,fwd,4.0625,True,,-2.984375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,156,fwd,4.0625,True,,4.0625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,156,fwd,4.0625,True,,4.0625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,156,fwd,4.0625,True,,4.0625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,156,fwd,4.0625,True,,4.0625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,156,fwd,4.0625,True,,4.0625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,156,swap,3.515625,True,,-1.734375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,156,swap,3.515625,True,,3.515625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,156,swap,3.515625,True,,3.515625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,156,swap,3.515625,True,,3.515625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,156,swap,3.515625,True,,3.515625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,156,swap,3.515625,True,,3.515625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,156,swap,3.515625,True,,0.28125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,156,swap,3.515625,True,,3.515625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,156,swap,3.515625,True,,3.515625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,156,swap,3.515625,True,,3.515625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,156,swap,3.515625,True,,3.515625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,156,swap,3.515625,True,,3.515625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,166,fwd,-0.171875,False,,1.875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,166,fwd,-0.171875,False,,-0.171875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,166,fwd,-0.171875,False,,-0.171875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,166,fwd,-0.171875,False,,-0.171875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,166,fwd,-0.171875,False,,-0.171875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,166,fwd,-0.171875,False,,-0.171875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,166,fwd,-0.171875,False,,1.484375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,166,fwd,-0.171875,False,,-0.171875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,166,fwd,-0.171875,False,,-0.171875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,166,fwd,-0.171875,False,,-0.171875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,166,fwd,-0.171875,False,,-0.171875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,166,fwd,-0.171875,False,,-0.171875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,166,swap,4.6875,True,,-0.265625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,166,swap,4.6875,True,,4.6875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,166,swap,4.6875,True,,4.6875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,166,swap,4.6875,True,,4.6875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,166,swap,4.6875,True,,4.6875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,166,swap,4.6875,True,,4.6875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,166,swap,4.6875,True,,4.15625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,166,swap,4.6875,True,,4.6875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,166,swap,4.6875,True,,4.6875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,166,swap,4.6875,True,,4.6875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,166,swap,4.6875,True,,4.6875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,166,swap,4.6875,True,,4.6875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,210,fwd,1.015625,True,,-4.0625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,210,fwd,1.015625,True,,1.015625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,210,fwd,1.015625,True,,1.015625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,210,fwd,1.015625,True,,1.015625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,210,fwd,1.015625,True,,1.015625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,210,fwd,1.015625,True,,1.015625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,210,fwd,1.015625,True,,-2.671875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,210,fwd,1.015625,True,,1.015625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,210,fwd,1.015625,True,,1.015625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,210,fwd,1.015625,True,,1.015625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,210,fwd,1.015625,True,,1.015625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,210,fwd,1.015625,True,,1.015625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,210,swap,0.671875,True,,-0.359375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,210,swap,0.671875,True,,0.671875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,210,swap,0.671875,True,,0.671875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,210,swap,0.671875,True,,0.671875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,210,swap,0.671875,True,,0.671875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,210,swap,0.671875,True,,0.671875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,210,swap,0.671875,True,,1.0
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,210,swap,0.671875,True,,0.671875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,210,swap,0.671875,True,,0.671875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,210,swap,0.671875,True,,0.671875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,210,swap,0.671875,True,,0.671875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,210,swap,0.671875,True,,0.671875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,233,fwd,4.640625,True,,-5.484375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,233,fwd,4.640625,True,,4.640625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,233,fwd,4.640625,True,,4.640625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,233,fwd,4.640625,True,,4.640625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,233,fwd,4.640625,True,,4.640625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,233,fwd,4.640625,True,,4.640625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,233,fwd,4.640625,True,,-0.109375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,233,fwd,4.640625,True,,4.640625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,233,fwd,4.640625,True,,4.640625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,233,fwd,4.640625,True,,4.640625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,233,fwd,4.640625,True,,4.640625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,233,fwd,4.640625,True,,4.640625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,233,swap,-3.28125,False,,7.0625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,233,swap,-3.28125,False,,-3.28125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,233,swap,-3.28125,False,,-3.28125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,233,swap,-3.28125,False,,-3.28125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,233,swap,-3.28125,False,,-3.28125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,233,swap,-3.28125,False,,-3.28125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,233,swap,-3.28125,False,,4.828125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,233,swap,-3.28125,False,,-3.28125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,233,swap,-3.28125,False,,-3.28125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,233,swap,-3.28125,False,,-3.28125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,233,swap,-3.28125,False,,-3.28125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,233,swap,-3.28125,False,,-3.28125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,241,fwd,6.25,True,,-4.34375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,241,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,241,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,241,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,241,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,241,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,241,fwd,6.25,True,,-0.203125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,241,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,241,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,241,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,241,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,241,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,241,swap,4.0,True,,3.046875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,241,swap,4.0,True,,4.0
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,241,swap,4.0,True,,4.0
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,241,swap,4.0,True,,4.0
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,241,swap,4.0,True,,4.0
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,241,swap,4.0,True,,4.0
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,241,swap,4.0,True,,7.75
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,241,swap,4.0,True,,4.0
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,241,swap,4.0,True,,4.0
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,241,swap,4.0,True,,4.0
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,241,swap,4.0,True,,4.0
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,241,swap,4.0,True,,4.0
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,253,fwd,3.578125,True,,-5.4375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,253,fwd,3.578125,True,,3.578125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,253,fwd,3.578125,True,,3.578125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,253,fwd,3.578125,True,,3.578125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,253,fwd,3.578125,True,,3.578125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,253,fwd,3.578125,True,,3.578125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,253,fwd,3.578125,True,,-3.265625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,253,fwd,3.578125,True,,3.578125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,253,fwd,3.578125,True,,3.578125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,253,fwd,3.578125,True,,3.578125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,253,fwd,3.578125,True,,3.578125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,253,fwd,3.578125,True,,3.578125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,253,swap,5.234375,True,,-1.640625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,253,swap,5.234375,True,,5.234375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,253,swap,5.234375,True,,5.234375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,253,swap,5.234375,True,,5.234375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,253,swap,5.234375,True,,5.234375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,253,swap,5.234375,True,,5.234375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,253,swap,5.234375,True,,-1.515625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,253,swap,5.234375,True,,5.234375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,253,swap,5.234375,True,,5.234375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,253,swap,5.234375,True,,5.234375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,253,swap,5.234375,True,,5.234375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,253,swap,5.234375,True,,5.234375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,289,fwd,5.9375,True,,-3.875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,289,fwd,5.9375,True,,5.9375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,289,fwd,5.9375,True,,5.9375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,289,fwd,5.9375,True,,5.9375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,289,fwd,5.9375,True,,5.9375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,289,fwd,5.9375,True,,5.9375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,289,fwd,5.9375,True,,-1.203125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,289,fwd,5.9375,True,,5.9375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,289,fwd,5.9375,True,,5.9375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,289,fwd,5.9375,True,,5.9375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,289,fwd,5.9375,True,,5.9375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,289,fwd,5.9375,True,,5.9375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,289,swap,0.609375,True,,-0.1875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,289,swap,0.609375,True,,0.609375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,289,swap,0.609375,True,,0.609375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,289,swap,0.609375,True,,0.609375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,289,swap,0.609375,True,,0.609375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,289,swap,0.609375,True,,0.609375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,289,swap,0.609375,True,,1.625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,289,swap,0.609375,True,,0.609375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,289,swap,0.609375,True,,0.609375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,289,swap,0.609375,True,,0.609375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,289,swap,0.609375,True,,0.609375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,289,swap,0.609375,True,,0.609375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,305,fwd,7.0625,True,,-3.859375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,305,fwd,7.0625,True,,7.0625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,305,fwd,7.0625,True,,7.0625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,305,fwd,7.0625,True,,7.0625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,305,fwd,7.0625,True,,7.0625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,305,fwd,7.0625,True,,7.0625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,305,fwd,7.0625,True,,-1.125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,305,fwd,7.0625,True,,7.0625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,305,fwd,7.0625,True,,7.0625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,305,fwd,7.0625,True,,7.0625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,305,fwd,7.0625,True,,7.0625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,305,fwd,7.0625,True,,7.0625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,305,swap,3.46875,True,,-0.625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,305,swap,3.46875,True,,3.46875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,305,swap,3.46875,True,,3.46875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,305,swap,3.46875,True,,3.46875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,305,swap,3.46875,True,,3.46875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,305,swap,3.46875,True,,3.46875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,305,swap,3.46875,True,,0.578125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,305,swap,3.46875,True,,3.46875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,305,swap,3.46875,True,,3.46875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,305,swap,3.46875,True,,3.46875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,305,swap,3.46875,True,,3.46875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,305,swap,3.46875,True,,3.46875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,328,fwd,2.546875,True,,-3.640625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,328,fwd,2.546875,True,,2.546875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,328,fwd,2.546875,True,,2.546875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,328,fwd,2.546875,True,,2.546875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,328,fwd,2.546875,True,,2.546875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,328,fwd,2.546875,True,,2.546875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,328,fwd,2.546875,True,,-1.28125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,328,fwd,2.546875,True,,2.546875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,328,fwd,2.546875,True,,2.546875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,328,fwd,2.546875,True,,2.546875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,328,fwd,2.546875,True,,2.546875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,328,fwd,2.546875,True,,2.546875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,328,swap,0.109375,True,,-0.859375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,328,swap,0.109375,True,,0.109375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,328,swap,0.109375,True,,0.109375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,328,swap,0.109375,True,,0.109375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,328,swap,0.109375,True,,0.109375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,328,swap,0.109375,True,,0.109375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,328,swap,0.109375,True,,0.765625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,328,swap,0.109375,True,,0.109375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,328,swap,0.109375,True,,0.109375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,328,swap,0.109375,True,,0.109375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,328,swap,0.109375,True,,0.109375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,328,swap,0.109375,True,,0.109375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,354,fwd,4.609375,True,,-4.25
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,354,fwd,4.609375,True,,4.609375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,354,fwd,4.609375,True,,4.609375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,354,fwd,4.609375,True,,4.609375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,354,fwd,4.609375,True,,4.609375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,354,fwd,4.609375,True,,4.609375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,354,fwd,4.609375,True,,0.328125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,354,fwd,4.609375,True,,4.609375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,354,fwd,4.609375,True,,4.609375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,354,fwd,4.609375,True,,4.609375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,354,fwd,4.609375,True,,4.609375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,354,fwd,4.609375,True,,4.609375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,354,swap,2.34375,True,,-1.5625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,354,swap,2.34375,True,,2.34375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,354,swap,2.34375,True,,2.34375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,354,swap,2.34375,True,,2.34375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,354,swap,2.34375,True,,2.34375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,354,swap,2.34375,True,,2.34375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,354,swap,2.34375,True,,1.53125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,354,swap,2.34375,True,,2.34375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,354,swap,2.34375,True,,2.34375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,354,swap,2.34375,True,,2.34375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,354,swap,2.34375,True,,2.34375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,354,swap,2.34375,True,,2.34375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,371,fwd,-1.4375,False,,2.328125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,371,fwd,-1.4375,False,,-1.4375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,371,fwd,-1.4375,False,,-1.4375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,371,fwd,-1.4375,False,,-1.4375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,371,fwd,-1.4375,False,,-1.4375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,371,fwd,-1.4375,False,,-1.4375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,371,fwd,-1.4375,False,,-0.09375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,371,fwd,-1.4375,False,,-1.4375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,371,fwd,-1.4375,False,,-1.4375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,371,fwd,-1.4375,False,,-1.4375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,371,fwd,-1.4375,False,,-1.4375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,371,fwd,-1.4375,False,,-1.4375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,371,swap,-0.0625,False,,7.265625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,371,swap,-0.0625,False,,-0.0625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,371,swap,-0.0625,False,,-0.0625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,371,swap,-0.0625,False,,-0.0625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,371,swap,-0.0625,False,,-0.0625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,371,swap,-0.0625,False,,-0.0625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,371,swap,-0.0625,False,,3.578125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,371,swap,-0.0625,False,,-0.0625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,371,swap,-0.0625,False,,-0.0625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,371,swap,-0.0625,False,,-0.0625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,371,swap,-0.0625,False,,-0.0625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,371,swap,-0.0625,False,,-0.0625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,378,fwd,1.703125,True,,-7.0625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,378,fwd,1.703125,True,,1.703125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,378,fwd,1.703125,True,,1.703125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,378,fwd,1.703125,True,,1.703125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,378,fwd,1.703125,True,,1.703125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,378,fwd,1.703125,True,,1.703125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,378,fwd,1.703125,True,,-5.453125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,378,fwd,1.703125,True,,1.703125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,378,fwd,1.703125,True,,1.703125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,378,fwd,1.703125,True,,1.703125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,378,fwd,1.703125,True,,1.703125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,378,fwd,1.703125,True,,1.703125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,378,swap,4.046875,True,,-1.75
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,378,swap,4.046875,True,,4.046875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,378,swap,4.046875,True,,4.046875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,378,swap,4.046875,True,,4.046875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,378,swap,4.046875,True,,4.046875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,378,swap,4.046875,True,,4.046875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,378,swap,4.046875,True,,1.84375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,378,swap,4.046875,True,,4.046875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,378,swap,4.046875,True,,4.046875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,378,swap,4.046875,True,,4.046875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,378,swap,4.046875,True,,4.046875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,378,swap,4.046875,True,,4.046875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,389,fwd,-6.46875,False,,0.484375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,389,fwd,-6.46875,False,,-6.46875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,389,fwd,-6.46875,False,,-6.46875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,389,fwd,-6.46875,False,,-6.46875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,389,fwd,-6.46875,False,,-6.46875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,389,fwd,-6.46875,False,,-6.46875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,389,fwd,-6.46875,False,,-1.515625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,389,fwd,-6.46875,False,,-6.46875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,389,fwd,-6.46875,False,,-6.46875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,389,fwd,-6.46875,False,,-6.46875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,389,fwd,-6.46875,False,,-6.46875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,389,fwd,-6.46875,False,,-6.46875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,389,swap,-3.171875,False,,2.4375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,389,swap,-3.171875,False,,-3.171875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,389,swap,-3.171875,False,,-3.171875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,389,swap,-3.171875,False,,-3.171875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,389,swap,-3.171875,False,,-3.171875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,389,swap,-3.171875,False,,-3.171875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,389,swap,-3.171875,False,,0.640625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,389,swap,-3.171875,False,,-3.171875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,389,swap,-3.171875,False,,-3.171875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,389,swap,-3.171875,False,,-3.171875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,389,swap,-3.171875,False,,-3.171875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,389,swap,-3.171875,False,,-3.171875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,410,fwd,5.046875,True,,-5.296875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,410,fwd,5.046875,True,,5.046875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,410,fwd,5.046875,True,,5.046875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,410,fwd,5.046875,True,,5.046875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,410,fwd,5.046875,True,,5.046875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,410,fwd,5.046875,True,,5.046875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,410,fwd,5.046875,True,,-2.96875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,410,fwd,5.046875,True,,5.046875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,410,fwd,5.046875,True,,5.046875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,410,fwd,5.046875,True,,5.046875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,410,fwd,5.046875,True,,5.046875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,410,fwd,5.046875,True,,5.046875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,410,swap,4.71875,True,,-1.59375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,410,swap,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,410,swap,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,410,swap,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,410,swap,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,410,swap,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,410,swap,4.71875,True,,-0.8125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,410,swap,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,410,swap,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,410,swap,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,410,swap,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,410,swap,4.71875,True,,4.71875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,431,fwd,6.765625,True,,-2.140625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,431,fwd,6.765625,True,,6.765625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,431,fwd,6.765625,True,,6.765625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,431,fwd,6.765625,True,,6.765625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,431,fwd,6.765625,True,,6.765625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,431,fwd,6.765625,True,,6.765625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,431,fwd,6.765625,True,,2.28125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,431,fwd,6.765625,True,,6.765625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,431,fwd,6.765625,True,,6.765625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,431,fwd,6.765625,True,,6.765625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,431,fwd,6.765625,True,,6.765625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,431,fwd,6.765625,True,,6.765625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,431,swap,2.8125,True,,1.453125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,431,swap,2.8125,True,,2.8125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,431,swap,2.8125,True,,2.8125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,431,swap,2.8125,True,,2.8125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,431,swap,2.8125,True,,2.8125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,431,swap,2.8125,True,,2.8125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,431,swap,2.8125,True,,4.1875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,431,swap,2.8125,True,,2.8125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,431,swap,2.8125,True,,2.8125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,431,swap,2.8125,True,,2.8125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,431,swap,2.8125,True,,2.8125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,431,swap,2.8125,True,,2.8125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,456,fwd,5.359375,True,,-4.078125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,456,fwd,5.359375,True,,5.359375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,456,fwd,5.359375,True,,5.359375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,456,fwd,5.359375,True,,5.359375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,456,fwd,5.359375,True,,5.359375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,456,fwd,5.359375,True,,5.359375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,456,fwd,5.359375,True,,-0.546875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,456,fwd,5.359375,True,,5.359375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,456,fwd,5.359375,True,,5.359375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,456,fwd,5.359375,True,,5.359375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,456,fwd,5.359375,True,,5.359375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,456,fwd,5.359375,True,,5.359375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,456,swap,-0.859375,False,,6.734375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,456,swap,-0.859375,False,,-0.859375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,456,swap,-0.859375,False,,-0.859375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,456,swap,-0.859375,False,,-0.859375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,456,swap,-0.859375,False,,-0.859375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,456,swap,-0.859375,False,,-0.859375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,456,swap,-0.859375,False,,4.5
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,456,swap,-0.859375,False,,-0.859375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,456,swap,-0.859375,False,,-0.859375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,456,swap,-0.859375,False,,-0.859375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,456,swap,-0.859375,False,,-0.859375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,456,swap,-0.859375,False,,-0.859375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,464,fwd,-0.9375,False,,0.96875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,464,fwd,-0.9375,False,,-0.9375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,464,fwd,-0.9375,False,,-0.9375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,464,fwd,-0.9375,False,,-0.9375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,464,fwd,-0.9375,False,,-0.9375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,464,fwd,-0.9375,False,,-0.9375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,464,fwd,-0.9375,False,,1.59375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,464,fwd,-0.9375,False,,-0.9375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,464,fwd,-0.9375,False,,-0.9375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,464,fwd,-0.9375,False,,-0.9375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,464,fwd,-0.9375,False,,-0.9375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,464,fwd,-0.9375,False,,-0.9375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,464,swap,1.28125,True,,-1.6875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,464,swap,1.28125,True,,1.28125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,464,swap,1.28125,True,,1.28125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,464,swap,1.28125,True,,1.28125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,464,swap,1.28125,True,,1.28125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,464,swap,1.28125,True,,1.28125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,464,swap,1.28125,True,,-0.4375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,464,swap,1.28125,True,,1.28125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,464,swap,1.28125,True,,1.28125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,464,swap,1.28125,True,,1.28125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,464,swap,1.28125,True,,1.28125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,464,swap,1.28125,True,,1.28125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,477,fwd,7.546875,True,,-2.640625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,477,fwd,7.546875,True,,7.546875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,477,fwd,7.546875,True,,7.546875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,477,fwd,7.546875,True,,7.546875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,477,fwd,7.546875,True,,7.546875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,477,fwd,7.546875,True,,7.546875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,477,fwd,7.546875,True,,0.859375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,477,fwd,7.546875,True,,7.546875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,477,fwd,7.546875,True,,7.546875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,477,fwd,7.546875,True,,7.546875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,477,fwd,7.546875,True,,7.546875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,477,fwd,7.546875,True,,7.546875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,477,swap,7.59375,True,,-0.109375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,477,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,477,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,477,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,477,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,477,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,477,swap,7.59375,True,,3.21875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,477,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,477,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,477,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,477,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,477,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,517,fwd,2.09375,True,,-4.609375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,517,fwd,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,517,fwd,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,517,fwd,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,517,fwd,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,517,fwd,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,517,fwd,2.09375,True,,-2.21875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,517,fwd,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,517,fwd,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,517,fwd,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,517,fwd,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,517,fwd,2.09375,True,,2.09375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,517,swap,-0.34375,False,,5.4375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,517,swap,-0.34375,False,,-0.34375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,517,swap,-0.34375,False,,-0.34375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,517,swap,-0.34375,False,,-0.34375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,517,swap,-0.34375,False,,-0.34375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,517,swap,-0.34375,False,,-0.34375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,517,swap,-0.34375,False,,3.75
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,517,swap,-0.34375,False,,-0.34375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,517,swap,-0.34375,False,,-0.34375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,517,swap,-0.34375,False,,-0.34375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,517,swap,-0.34375,False,,-0.34375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,517,swap,-0.34375,False,,-0.34375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,539,fwd,6.421875,True,,-4.609375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,539,fwd,6.421875,True,,6.421875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,539,fwd,6.421875,True,,6.421875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,539,fwd,6.421875,True,,6.421875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,539,fwd,6.421875,True,,6.421875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,539,fwd,6.421875,True,,6.421875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,539,fwd,6.421875,True,,-1.484375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,539,fwd,6.421875,True,,6.421875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,539,fwd,6.421875,True,,6.421875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,539,fwd,6.421875,True,,6.421875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,539,fwd,6.421875,True,,6.421875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,539,fwd,6.421875,True,,6.421875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,539,swap,8.4375,True,,0.609375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,539,swap,8.4375,True,,8.4375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,539,swap,8.4375,True,,8.4375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,539,swap,8.4375,True,,8.4375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,539,swap,8.4375,True,,8.4375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,539,swap,8.4375,True,,8.4375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,539,swap,8.4375,True,,4.390625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,539,swap,8.4375,True,,8.4375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,539,swap,8.4375,True,,8.4375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,539,swap,8.4375,True,,8.4375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,539,swap,8.4375,True,,8.4375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,539,swap,8.4375,True,,8.4375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,562,fwd,-6.140625,False,,0.21875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,562,fwd,-6.140625,False,,-6.140625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,562,fwd,-6.140625,False,,-6.140625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,562,fwd,-6.140625,False,,-6.140625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,562,fwd,-6.140625,False,,-6.140625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,562,fwd,-6.140625,False,,-6.140625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,562,fwd,-6.140625,False,,-2.875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,562,fwd,-6.140625,False,,-6.140625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,562,fwd,-6.140625,False,,-6.140625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,562,fwd,-6.140625,False,,-6.140625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,562,fwd,-6.140625,False,,-6.140625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,562,fwd,-6.140625,False,,-6.140625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,562,swap,-2.765625,False,,3.375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,562,swap,-2.765625,False,,-2.765625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,562,swap,-2.765625,False,,-2.765625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,562,swap,-2.765625,False,,-2.765625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,562,swap,-2.765625,False,,-2.765625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,562,swap,-2.765625,False,,-2.765625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,562,swap,-2.765625,False,,0.796875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,562,swap,-2.765625,False,,-2.765625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,562,swap,-2.765625,False,,-2.765625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,562,swap,-2.765625,False,,-2.765625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,562,swap,-2.765625,False,,-2.765625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,562,swap,-2.765625,False,,-2.765625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,585,fwd,0.4375,True,,-5.3125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,585,fwd,0.4375,True,,0.4375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,585,fwd,0.4375,True,,0.4375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,585,fwd,0.4375,True,,0.4375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,585,fwd,0.4375,True,,0.4375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,585,fwd,0.4375,True,,0.4375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,585,fwd,0.4375,True,,-1.28125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,585,fwd,0.4375,True,,0.4375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,585,fwd,0.4375,True,,0.4375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,585,fwd,0.4375,True,,0.4375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,585,fwd,0.4375,True,,0.4375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,585,fwd,0.4375,True,,0.4375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,585,swap,0.484375,True,,-1.25
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,585,swap,0.484375,True,,0.484375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,585,swap,0.484375,True,,0.484375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,585,swap,0.484375,True,,0.484375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,585,swap,0.484375,True,,0.484375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,585,swap,0.484375,True,,0.484375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,585,swap,0.484375,True,,-0.15625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,585,swap,0.484375,True,,0.484375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,585,swap,0.484375,True,,0.484375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,585,swap,0.484375,True,,0.484375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,585,swap,0.484375,True,,0.484375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,585,swap,0.484375,True,,0.484375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,598,fwd,3.53125,True,,-3.9375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,598,fwd,3.53125,True,,3.53125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,598,fwd,3.53125,True,,3.53125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,598,fwd,3.53125,True,,3.53125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,598,fwd,3.53125,True,,3.53125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,598,fwd,3.53125,True,,3.53125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,598,fwd,3.53125,True,,-2.578125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,598,fwd,3.53125,True,,3.53125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,598,fwd,3.53125,True,,3.53125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,598,fwd,3.53125,True,,3.53125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,598,fwd,3.53125,True,,3.53125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,598,fwd,3.53125,True,,3.53125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,598,swap,1.3125,True,,-2.921875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,598,swap,1.3125,True,,1.3125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,598,swap,1.3125,True,,1.3125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,598,swap,1.3125,True,,1.3125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,598,swap,1.3125,True,,1.3125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,598,swap,1.3125,True,,1.3125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,598,swap,1.3125,True,,-2.203125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,598,swap,1.3125,True,,1.3125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,598,swap,1.3125,True,,1.3125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,598,swap,1.3125,True,,1.3125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,598,swap,1.3125,True,,1.3125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,598,swap,1.3125,True,,1.3125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,638,fwd,3.390625,True,,-5.671875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,638,fwd,3.390625,True,,3.390625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,638,fwd,3.390625,True,,3.390625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,638,fwd,3.390625,True,,3.390625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,638,fwd,3.390625,True,,3.390625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,638,fwd,3.390625,True,,3.390625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,638,fwd,3.390625,True,,-4.609375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,638,fwd,3.390625,True,,3.390625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,638,fwd,3.390625,True,,3.390625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,638,fwd,3.390625,True,,3.390625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,638,fwd,3.390625,True,,3.390625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,638,fwd,3.390625,True,,3.390625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,638,swap,-2.671875,False,,5.0625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,638,swap,-2.671875,False,,-2.671875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,638,swap,-2.671875,False,,-2.671875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,638,swap,-2.671875,False,,-2.671875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,638,swap,-2.671875,False,,-2.671875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,638,swap,-2.671875,False,,-2.671875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,638,swap,-2.671875,False,,1.21875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,638,swap,-2.671875,False,,-2.671875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,638,swap,-2.671875,False,,-2.671875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,638,swap,-2.671875,False,,-2.671875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,638,swap,-2.671875,False,,-2.671875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,638,swap,-2.671875,False,,-2.671875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,656,fwd,3.015625,True,,-2.515625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,656,fwd,3.015625,True,,3.015625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,656,fwd,3.015625,True,,3.015625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,656,fwd,3.015625,True,,3.015625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,656,fwd,3.015625,True,,3.015625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,656,fwd,3.015625,True,,3.015625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,656,fwd,3.015625,True,,0.328125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,656,fwd,3.015625,True,,3.015625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,656,fwd,3.015625,True,,3.015625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,656,fwd,3.015625,True,,3.015625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,656,fwd,3.015625,True,,3.015625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,656,fwd,3.015625,True,,3.015625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,656,swap,-0.921875,False,,4.609375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,656,swap,-0.921875,False,,-0.921875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,656,swap,-0.921875,False,,-0.921875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,656,swap,-0.921875,False,,-0.921875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,656,swap,-0.921875,False,,-0.921875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,656,swap,-0.921875,False,,-0.921875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,656,swap,-0.921875,False,,3.46875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,656,swap,-0.921875,False,,-0.921875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,656,swap,-0.921875,False,,-0.921875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,656,swap,-0.921875,False,,-0.921875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,656,swap,-0.921875,False,,-0.921875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,656,swap,-0.921875,False,,-0.921875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,701,fwd,-0.375,False,,2.265625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,701,fwd,-0.375,False,,-0.375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,701,fwd,-0.375,False,,-0.375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,701,fwd,-0.375,False,,-0.375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,701,fwd,-0.375,False,,-0.375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,701,fwd,-0.375,False,,-0.375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,701,fwd,-0.375,False,,0.203125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,701,fwd,-0.375,False,,-0.375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,701,fwd,-0.375,False,,-0.375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,701,fwd,-0.375,False,,-0.375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,701,fwd,-0.375,False,,-0.375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,701,fwd,-0.375,False,,-0.375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,701,swap,0.5,True,,-2.84375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,701,swap,0.5,True,,0.5
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,701,swap,0.5,True,,0.5
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,701,swap,0.5,True,,0.5
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,701,swap,0.5,True,,0.5
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,701,swap,0.5,True,,0.5
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,701,swap,0.5,True,,-2.390625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,701,swap,0.5,True,,0.5
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,701,swap,0.5,True,,0.5
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,701,swap,0.5,True,,0.5
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,701,swap,0.5,True,,0.5
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,701,swap,0.5,True,,0.5
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,715,fwd,4.625,True,,-5.703125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,715,fwd,4.625,True,,4.625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,715,fwd,4.625,True,,4.625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,715,fwd,4.625,True,,4.625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,715,fwd,4.625,True,,4.625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,715,fwd,4.625,True,,4.625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,715,fwd,4.625,True,,-1.875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,715,fwd,4.625,True,,4.625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,715,fwd,4.625,True,,4.625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,715,fwd,4.625,True,,4.625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,715,fwd,4.625,True,,4.625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,715,fwd,4.625,True,,4.625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,715,swap,-5.5,False,,4.703125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,715,swap,-5.5,False,,-5.5
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,715,swap,-5.5,False,,-5.5
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,715,swap,-5.5,False,,-5.5
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,715,swap,-5.5,False,,-5.5
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,715,swap,-5.5,False,,-5.5
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,715,swap,-5.5,False,,0.65625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,715,swap,-5.5,False,,-5.5
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,715,swap,-5.5,False,,-5.5
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,715,swap,-5.5,False,,-5.5
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,715,swap,-5.5,False,,-5.5
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,715,swap,-5.5,False,,-5.5
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,741,fwd,5.5,True,,-6.6875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,741,fwd,5.5,True,,5.5
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,741,fwd,5.5,True,,5.5
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,741,fwd,5.5,True,,5.5
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,741,fwd,5.5,True,,5.5
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,741,fwd,5.5,True,,5.5
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,741,fwd,5.5,True,,-2.640625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,741,fwd,5.5,True,,5.5
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,741,fwd,5.5,True,,5.5
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,741,fwd,5.5,True,,5.5
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,741,fwd,5.5,True,,5.5
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,741,fwd,5.5,True,,5.5
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,741,swap,1.453125,True,,-0.28125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,741,swap,1.453125,True,,1.453125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,741,swap,1.453125,True,,1.453125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,741,swap,1.453125,True,,1.453125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,741,swap,1.453125,True,,1.453125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,741,swap,1.453125,True,,1.453125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,741,swap,1.453125,True,,3.890625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,741,swap,1.453125,True,,1.453125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,741,swap,1.453125,True,,1.453125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,741,swap,1.453125,True,,1.453125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,741,swap,1.453125,True,,1.453125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,741,swap,1.453125,True,,1.453125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,755,fwd,6.328125,True,,-3.59375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,755,fwd,6.328125,True,,6.328125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,755,fwd,6.328125,True,,6.328125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,755,fwd,6.328125,True,,6.328125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,755,fwd,6.328125,True,,6.328125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,755,fwd,6.328125,True,,6.328125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,755,fwd,6.328125,True,,0.96875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,755,fwd,6.328125,True,,6.328125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,755,fwd,6.328125,True,,6.328125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,755,fwd,6.328125,True,,6.328125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,755,fwd,6.328125,True,,6.328125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,755,fwd,6.328125,True,,6.328125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,755,swap,0.015625,True,,-2.8125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,755,swap,0.015625,True,,0.015625
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,755,swap,0.015625,True,,0.015625
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,755,swap,0.015625,True,,0.015625
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,755,swap,0.015625,True,,0.015625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,755,swap,0.015625,True,,0.015625
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,755,swap,0.015625,True,,-0.984375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,755,swap,0.015625,True,,0.015625
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,755,swap,0.015625,True,,0.015625
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,755,swap,0.015625,True,,0.015625
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,755,swap,0.015625,True,,0.015625
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,755,swap,0.015625,True,,0.015625
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,769,fwd,3.203125,True,,-6.296875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,769,fwd,3.203125,True,,3.203125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,769,fwd,3.203125,True,,3.203125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,769,fwd,3.203125,True,,3.203125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,769,fwd,3.203125,True,,3.203125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,769,fwd,3.203125,True,,3.203125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,769,fwd,3.203125,True,,-4.65625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,769,fwd,3.203125,True,,3.203125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,769,fwd,3.203125,True,,3.203125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,769,fwd,3.203125,True,,3.203125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,769,fwd,3.203125,True,,3.203125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,769,fwd,3.203125,True,,3.203125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,769,swap,7.59375,True,,-1.53125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,769,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,769,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,769,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,769,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,769,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,769,swap,7.59375,True,,4.25
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,769,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,769,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,769,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,769,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,769,swap,7.59375,True,,7.59375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,788,fwd,6.25,True,,-2.375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,788,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,788,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,788,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,788,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,788,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,788,fwd,6.25,True,,0.0
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,788,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,788,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,788,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,788,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,788,fwd,6.25,True,,6.25
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,788,swap,6.3125,True,,2.015625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,788,swap,6.3125,True,,6.3125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,788,swap,6.3125,True,,6.3125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,788,swap,6.3125,True,,6.3125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,788,swap,6.3125,True,,6.3125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,788,swap,6.3125,True,,6.3125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,788,swap,6.3125,True,,4.953125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,788,swap,6.3125,True,,6.3125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,788,swap,6.3125,True,,6.3125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,788,swap,6.3125,True,,6.3125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,788,swap,6.3125,True,,6.3125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,788,swap,6.3125,True,,6.3125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,799,fwd,-4.046875,False,,2.96875
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,799,fwd,-4.046875,False,,-4.046875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,799,fwd,-4.046875,False,,-4.046875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,799,fwd,-4.046875,False,,-4.046875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,799,fwd,-4.046875,False,,-4.046875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,799,fwd,-4.046875,False,,-4.046875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,799,fwd,-4.046875,False,,3.140625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,799,fwd,-4.046875,False,,-4.046875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,799,fwd,-4.046875,False,,-4.046875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,799,fwd,-4.046875,False,,-4.046875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,799,fwd,-4.046875,False,,-4.046875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,799,fwd,-4.046875,False,,-4.046875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,799,swap,1.96875,True,,-1.03125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,799,swap,1.96875,True,,1.96875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,799,swap,1.96875,True,,1.96875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,799,swap,1.96875,True,,1.96875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,799,swap,1.96875,True,,1.96875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,799,swap,1.96875,True,,1.96875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,799,swap,1.96875,True,,-0.5625
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,799,swap,1.96875,True,,1.96875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,799,swap,1.96875,True,,1.96875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,799,swap,1.96875,True,,1.96875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,799,swap,1.96875,True,,1.96875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,799,swap,1.96875,True,,1.96875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,803,fwd,-5.359375,False,,2.375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,803,fwd,-5.359375,False,,-5.359375
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,803,fwd,-5.359375,False,,-5.359375
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,803,fwd,-5.359375,False,,-5.359375
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,803,fwd,-5.359375,False,,-5.359375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,803,fwd,-5.359375,False,,-5.359375
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,803,fwd,-5.359375,False,,-0.328125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,803,fwd,-5.359375,False,,-5.359375
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,803,fwd,-5.359375,False,,-5.359375
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,803,fwd,-5.359375,False,,-5.359375
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,803,fwd,-5.359375,False,,-5.359375
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,803,fwd,-5.359375,False,,-5.359375
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,803,swap,-1.78125,False,,5.609375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,803,swap,-1.78125,False,,-1.78125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,803,swap,-1.78125,False,,-1.78125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,803,swap,-1.78125,False,,-1.78125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,803,swap,-1.78125,False,,-1.78125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,803,swap,-1.78125,False,,-1.78125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,803,swap,-1.78125,False,,4.125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,803,swap,-1.78125,False,,-1.78125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,803,swap,-1.78125,False,,-1.78125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,803,swap,-1.78125,False,,-1.78125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,803,swap,-1.78125,False,,-1.78125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,803,swap,-1.78125,False,,-1.78125
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,809,fwd,4.296875,True,,-3.75
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,809,fwd,4.296875,True,,4.296875
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,809,fwd,4.296875,True,,4.296875
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,809,fwd,4.296875,True,,4.296875
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,809,fwd,4.296875,True,,4.296875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,809,fwd,4.296875,True,,4.296875
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,809,fwd,4.296875,True,,-0.953125
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,809,fwd,4.296875,True,,4.296875
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,809,fwd,4.296875,True,,4.296875
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,809,fwd,4.296875,True,,4.296875
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,809,fwd,4.296875,True,,4.296875
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,809,fwd,4.296875,True,,4.296875
+Qwen2.5-1.5B-Instruct,no anchor,all,C1,809,swap,6.578125,True,,-1.375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C1,809,swap,6.578125,True,,6.578125
+Qwen2.5-1.5B-Instruct,running anchor,0,C1,809,swap,6.578125,True,,6.578125
+Qwen2.5-1.5B-Instruct,running anchor,1,C1,809,swap,6.578125,True,,6.578125
+Qwen2.5-1.5B-Instruct,running anchor,2,C1,809,swap,6.578125,True,,6.578125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C1,809,swap,6.578125,True,,6.578125
+Qwen2.5-1.5B-Instruct,no anchor,all,C2,809,swap,6.578125,True,,-0.609375
+Qwen2.5-1.5B-Instruct,anchor to turn 1,all,C2,809,swap,6.578125,True,,6.578125
+Qwen2.5-1.5B-Instruct,running anchor,0,C2,809,swap,6.578125,True,,6.578125
+Qwen2.5-1.5B-Instruct,running anchor,1,C2,809,swap,6.578125,True,,6.578125
+Qwen2.5-1.5B-Instruct,running anchor,2,C2,809,swap,6.578125,True,,6.578125
+Qwen2.5-1.5B-Instruct,running anchor,perfect Ê,C2,809,swap,6.578125,True,,6.578125

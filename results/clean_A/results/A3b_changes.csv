@@ -1,0 +1,13 @@
+tagger training,answer from,"not correct at strength 1, correct here","correct at strength 1, not correct here"
+0,strength 1.25,8,6
+0,strength 1.5,22,15
+0,strength 2,39,29
+0,strength 3,60,51
+1,strength 1.25,9,7
+1,strength 1.5,24,16
+1,strength 2,39,32
+1,strength 3,65,52
+2,strength 1.25,9,4
+2,strength 1.5,23,14
+2,strength 2,41,29
+2,strength 3,62,48

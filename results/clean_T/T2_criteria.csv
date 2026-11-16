@@ -1,0 +1,4 @@
+subject model,tagger training,correct at BASELINE,incorrect at BASELINE,"R_UY, count: no anchor","R_UY, count: pipeline","R_UY, count: SP",1.,"EVIDENCE, count: no anchor","EVIDENCE, count: pipeline","EVIDENCE, count: SP",2.,"USER-EVIDENCE, count: no anchor","USER-EVIDENCE, count: pipeline","USER-EVIDENCE, count: SP",3.,4.,5.
+Mistral-7B-Instruct-v0.3,0,40,61,6,18,4,met,6,17,13,met,6,19,16,met,met,not met
+Mistral-7B-Instruct-v0.3,1,40,61,6,17,5,met,6,17,14,met,6,20,15,met,met,not met
+Mistral-7B-Instruct-v0.3,2,40,61,6,18,4,met,6,17,14,met,6,19,14,met,met,not met

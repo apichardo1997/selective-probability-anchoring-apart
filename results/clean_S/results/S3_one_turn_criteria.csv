@@ -1,0 +1,4 @@
+subject model,tagger training,MES,Gap of no anchor,1. selectivity,1.,2. evidence kept (%),2.,3. gap closed (%),3.,"4. agreeing Compound Prompt, distance (% of MES)",4.,7. R_UY (%),7.,"8. R_RU, share of the evidence alone (%)",8.
+Mistral-7B-Instruct-v0.3,0,0.5459449404761905,0.555854724702381,97.00501253132833,met,100.0,met,108.91567877789026,met,9.077512776831352,met,2.280701754385961,met,95.00000000000001,not judged
+Mistral-7B-Instruct-v0.3,1,0.5459449404761905,0.555854724702381,96.65726817042606,met,100.0,met,108.77596606738001,met,8.935264054514482,met,2.8070175438596467,met,100.0,not judged
+Mistral-7B-Instruct-v0.3,2,0.5459449404761905,0.555854724702381,95.6046365914787,met,100.0,met,105.72152830646444,met,7.8560477001703655,met,3.8596491228070184,met,97.5,not judged

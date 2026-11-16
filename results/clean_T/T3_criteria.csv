@@ -1,0 +1,4 @@
+subject model,tagger training,correct at BASELINE,incorrect at BASELINE,"R_UY, count: no anchor","R_UY, count: pipeline","R_UY, count: SP",1.,"EVIDENCE, count: no anchor","EVIDENCE, count: pipeline","EVIDENCE, count: SP",2.,"USER-EVIDENCE, count: no anchor","USER-EVIDENCE, count: pipeline","USER-EVIDENCE, count: SP",3.,4.,5.
+Qwen2.5-7B-Instruct,0,40,61,11,23,8,met,11,22,17,met,10,17,16,met,met,not met
+Qwen2.5-7B-Instruct,1,40,61,11,26,8,met,11,20,15,met,10,16,14,met,met,not met
+Qwen2.5-7B-Instruct,2,40,61,11,24,6,met,11,20,15,met,10,17,15,met,met,not met

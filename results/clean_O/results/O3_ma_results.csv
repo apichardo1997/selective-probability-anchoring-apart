@@ -1,0 +1,7 @@
+subject model,method,tagger training,items,accuracy at BASELINE (%),correct at BASELINE,incorrect at BASELINE,"R_UY, count",R_UY (%),"R_RU with EVIDENCE, count",R_RU with EVIDENCE (%),"R_RU with USER-EVIDENCE, count",R_RU with USER-EVIDENCE (%),change of R_UY (points),change of R_RU with EVIDENCE (points),change of R_RU with USER-EVIDENCE (points),selective (label of Ma et al.)
+Mistral-7B-Instruct-v0.3,no anchor,all,41,60.97560975609756,25,16,1,4.0,5,31.25,3,18.75,0.0,0.0,0.0,False
+Mistral-7B-Instruct-v0.3,uniform anchor,all,41,60.97560975609756,25,16,0,0.0,0,0.0,0,0.0,-4.0,-31.25,-18.75,False
+Mistral-7B-Instruct-v0.3,pipeline,0,41,60.97560975609756,25,16,10,40.0,8,50.0,9,56.25,36.0,18.75,37.5,False
+Mistral-7B-Instruct-v0.3,pipeline,1,41,60.97560975609756,25,16,10,40.0,8,50.0,9,56.25,36.0,18.75,37.5,False
+Mistral-7B-Instruct-v0.3,pipeline,2,41,60.97560975609756,25,16,9,36.0,8,50.0,9,56.25,32.0,18.75,37.5,False
+Mistral-7B-Instruct-v0.3,pipeline,perfect Ê,41,60.97560975609756,25,16,0,0.0,8,50.0,9,56.25,-4.0,18.75,37.5,True

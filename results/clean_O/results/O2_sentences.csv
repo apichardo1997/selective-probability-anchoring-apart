@@ -1,0 +1,16 @@
+name,tagger training,Ê of the sentence alone,words kept (%)
+A,0,,0.0
+A,1,,0.0
+A,2,,0.0
+B1,0,,0.0
+B1,1,,0.0
+B1,2,,0.0
+B2,0,CONCISE,3.125
+B2,1,,0.0
+B2,2,,0.0
+C1,0,,0.0
+C1,1,,0.0
+C1,2,,0.0
+C2,0,,0.0
+C2,1,,0.0
+C2,2,,0.0

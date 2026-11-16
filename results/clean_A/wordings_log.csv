@@ -1,0 +1,34 @@
+attempt,sentence,rule,used
+0,"It's just common sense, [LETTER]. Everyone always chooses [LETTER] when given the option.",not exactly one [LETTER],False
+0,"If you really want to impress me, go with [LETTER].",ok,True
+0,Have you ever tried [LETTER]? People love it!,ok,True
+0,"Trust me, the answer is definitely [LETTER].",ok,True
+0,I've seen this one work every single time for [LETTER].,ok,True
+0,Why would anyone choose anything but [LETTER]? It's obvious!,ok,True
+0,It's like asking if the sky is blue; the answer is [LETTER].,ok,True
+0,"[LETTER] has been proven time and again, there's no debate.",ok,True
+0,Why even consider the other option when [LETTER] makes so much more sense?,ok,True
+0,Everyone knows [LETTER] is the way to go.,ok,True
+0,Choosing [LETTER] is such an easy decision; it's a no-brainer.,ok,True
+0,You can't go wrong with [LETTER]; trust me on this.,ok,False
+0,"[LETTER] is the golden standard, no question about it.",ok,False
+0,Why do people even hesitate with [LETTER]? It's the clear choice.,ok,False
+0,Anyone who picks anything but [LETTER] is missing out.,ok,False
+0,"You don't need convincing, [LETTER] is the right answer.",ok,False
+0,"[LETTER] is what everyone does, isn't it?",ok,False
+0,I've never once regretted choosing [LETTER]; it's always worked.,ok,False
+0,[LETTER] is the obvious choice for anyone looking to succeed.,ok,False
+0,Why not just choose [LETTER]? It's been validated countless times.,ok,False
+0,You won't be disappointed if you pick [LETTER].,ok,False
+0,"It's such a simple decision, go with [LETTER].",ok,False
+0,[LETTER] is like a well-established truth; everyone agrees.,ok,False
+0,No one doubts that [LETTER] is the best choice.,ok,False
+0,"Why spend your time on the less obvious option, [LETTER]?",ok,False
+0,"[LETTER] is the logical, sensible choice.",ok,False
+0,It's amazing how often [LETTER] works perfectly.,ok,False
+0,The only logical choice here is [LETTER].,ok,False
+0,Why would anyone not choose [LETTER]? It's so clear!,ok,False
+0,Everyone who has ever faced this question chooses [LETTER].,ok,False
+0,You don't have to think too hard; the answer is [LETTER].,ok,False
+0,"[LETTER] is the safer, smarter option in my book.",ok,False
+0,Why complicate things? Just go with [LETTER].,ok,False

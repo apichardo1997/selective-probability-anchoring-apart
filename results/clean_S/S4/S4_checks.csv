@@ -1,0 +1,10 @@
+check,name,tagger training,value,condition,status
+3,Evidence effect,all,1.091,mean shift under E+ above 0,pass
+4,Pressure effect,all,-0.433,mean shift under P- below 0,pass
+5,Proposition 1,all,0.00e+00,deviation below 1e-06,pass
+9,Selectivity at strength 0.5,0,selective 1.653 vs uniform 1.002,S(0.5) selective above uniform,pass
+10,Compound Prompt,0,mean shift 1.061; Gap(1) 0.030 vs Gap(0) 0.816,mean shift at lambda 1 above 0 and Gap(1) below Gap(0),pass
+9,Selectivity at strength 0.5,1,selective 1.589 vs uniform 1.002,S(0.5) selective above uniform,pass
+10,Compound Prompt,1,mean shift 1.018; Gap(1) 0.072 vs Gap(0) 0.816,mean shift at lambda 1 above 0 and Gap(1) below Gap(0),pass
+9,Selectivity at strength 0.5,2,selective 1.554 vs uniform 1.002,S(0.5) selective above uniform,pass
+10,Compound Prompt,2,mean shift 1.025; Gap(1) 0.066 vs Gap(0) 0.816,mean shift at lambda 1 above 0 and Gap(1) below Gap(0),pass
